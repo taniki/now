@@ -1,6 +1,6 @@
 node_modules
 
-logseq/
-logseq-*
+logseq/bak
+logseq/.recycle
 
 .DS_Store
