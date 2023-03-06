@@ -1,3 +1,5 @@
-type:: [[person]]
+---
+type: [[person]]
+---
 
 - autrice de #[[science fiction]]

@@ -1,4 +1,6 @@
-type:: [[book]]
+---
+type: [[book]]
+---
 
 - [[Fred Turner]]
 - idéologie californienne

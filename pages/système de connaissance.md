@@ -1,6 +1,8 @@
-garden:: true
-status:: 🌱 seed
-public:: true
+---
+garden: true
+status: 🌱 seed
+public: true
+---
 
 - alimentation
 	- RSS

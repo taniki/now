@@ -1,4 +1,6 @@
-type:: [[book]]
+---
+type: [[book]]
+---
 
 - [[Ursula Le Guin]]
 - manuel d' [[écriture]]

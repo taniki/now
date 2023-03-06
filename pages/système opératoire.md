@@ -1,6 +1,8 @@
-garden:: true
-public:: true
-status:: 🌱 seed
+---
+garden: true
+public: true
+status: 🌱 seed
+---
 
 - se réveiller à 6h du matin pour avoir du temps
 - bien manger
