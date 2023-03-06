@@ -242,7 +242,7 @@
  :ref/linked-references-collapsed-threshold 50
 
  ;; Favorites to list on the left sidebar
- :favorites ["départ"]
+ :favorites ["digital garden"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -342,9 +342,10 @@
  :journal/page-title-format "yyyy-MM-dd"
  :feature/enable-timetracking? false
  :feature/enable-journals? false
- :default-home {:page "départ"}
+ :default-home {:page "croisée des chemins"}
  :feature/enable-flashcards? false
- :graph/settings {:orphan-pages? false}
+ :graph/settings {:orphan-pages? true, :builtin-pages? false, :excluded-pages? true}
+ :zotero/settings-v2 {"default" {:zotero-data-directory "", :page-insert-prefix "@", :include-attachments? false, :include-notes? false}}
 
  ;; specify the format of the filename for journal files
  ;; :journal/file-name-format "yyyy_MM_dd"
