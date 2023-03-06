@@ -1,0 +1,9 @@
+- apporter un soutien aux équipes opérationnelles avec
+	- [[statistiques]]
+	- [[architecture de l'information]]
+		- paradigme ETL
+- partager la connaissance et travailler de façon ouverte
+	- scope.mediapart.io
+- rendre des comptes
+	- rapport hebdomadaires
+	- réunion d'équipe

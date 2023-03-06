@@ -1,0 +1,4 @@
+- fieldnotes
+	- format memo
+		- rangement dans une boîte
+- capture du flux quotidien

@@ -1,0 +1,3 @@
+- [[cast/manski]]
+- #mathématiques #probabilités
+- #économie #[[sciences sociales]]

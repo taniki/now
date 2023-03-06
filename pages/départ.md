@@ -1,0 +1,17 @@
+- ce à quoi je travaille
+	- [[mediapart]]
+- ce qui m'occupe personnellement en ce moment
+	- thèmes
+		- analyse de données
+			- statistiques
+			- visualisation de données
+		- écriture
+		- technologie
+		- [[économie]]
+		- écologie
+	- [[sortir des grandes plateformes]]
+- [[système opératoire]]
+- inventaires
+	- [[sites]]
+	- [[système de connaissance]]
+- [[tam kien duong]]
