@@ -342,7 +342,7 @@
  :journal/page-title-format "yyyy-MM-dd"
  :feature/enable-timetracking? false
  :feature/enable-journals? false
- :default-home {:page "croisée des chemins"}
+ :default-home {:page "départ"}
  :feature/enable-flashcards? false
  :graph/settings {:orphan-pages? true, :builtin-pages? false, :excluded-pages? true}
 

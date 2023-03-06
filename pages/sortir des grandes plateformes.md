@@ -1,3 +1,4 @@
+- Pourquoi les plateformes capitalistes sont problématiques ?
 - 2018
 	- google/gmail -> auto-hébergement
 	  id:: 6405faa6-7d01-4ecf-a67b-840f6e1d5bf8

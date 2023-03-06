@@ -1,3 +1,7 @@
+garden:: true
+public:: true
+status:: 🌱 seed
+
 - ((6405b66e-7a54-4f31-8d8b-be8a96981189)) et ((6405b675-d484-4230-99f3-e727195ff24a))
 - jeux de rôle solo dont le produit est un artefact, typiquement un journal de bord.
 -

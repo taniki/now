@@ -1,0 +1,2 @@
+- configuration : https://github.com/taniki/dotfiles/tree/main/nvim/.config/nvim
+- #outils

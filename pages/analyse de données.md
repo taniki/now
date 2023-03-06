@@ -1,0 +1,12 @@
+- analyse de donnée et informatique
+- analyser des données est différent de programmer
+	- différence de culture
+	- différence de pratiques
+	- différence de problématiques
+- connaissances
+	- économétrie
+	- statistiques
+- boite à outils
+	- quarto
+	- pandas
+	- observable

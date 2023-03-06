@@ -1,17 +1,20 @@
 - ce à quoi je travaille
+	- [[petite famille]]
 	- [[mediapart]]
 - ce qui m'occupe personnellement en ce moment
 	- thèmes
-		- analyse de données
-			- statistiques
+		- [[analyse de données]]
+			- [[statistiques]]
 			- visualisation de données
-		- écriture
 		- technologie
 		- [[économie]]
 		- écologie
+		- écriture
 	- [[sortir des grandes plateformes]]
-- [[système opératoire]]
+	-
+- [[digital garden]]
 - inventaires
-	- [[sites]]
+	- [[système opératoire]]
 	- [[système de connaissance]]
+	- [[sites]]
 - [[tam kien duong]]

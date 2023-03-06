@@ -2,8 +2,8 @@
 	- [[statistiques]]
 	- [[architecture de l'information]]
 		- paradigme ETL
+	- mesures d'audience
 - partager la connaissance et travailler de façon ouverte
-	- scope.mediapart.io
 - rendre des comptes
 	- rapport hebdomadaires
 	- réunion d'équipe

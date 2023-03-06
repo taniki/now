@@ -1,2 +1,0 @@
-- [[cast/fred turner]]
-- idéologie californienne

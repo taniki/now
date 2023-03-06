@@ -1,8 +1,14 @@
+garden:: true
+status:: 🌱 seed
+public:: true
+
 - alimentation
 	- RSS
 		- newsboat
 		- netnewswire
 	- liseuse
+	- podcasts
+		- snipd
 	- substack
 	- read.readwise.io
 	- hasard ?
@@ -20,7 +26,7 @@
 		- le but est de remplacer notion
 - rédaction ?
 	- zettlr ?
-	- neovim
+	- [[neovim]]
 	- antidote
 - [[publication]]
   collapsed:: true
