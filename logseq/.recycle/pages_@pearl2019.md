@@ -1,6 +1,0 @@
----
-author: Pearl
-from: zotero
----
-
--
