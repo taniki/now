@@ -1,3 +1,5 @@
+- je travaille actuellement comme [data analyst]([[analyse de données]]) chez [[mediapart]]
+-
 - j'ai commencé par des études en mathématiques appliquées et en psychologie
 - j'ai fait des études de #statistiques et de #[[sciences sociales]]
 - j'ai commencé une thèse en anthropologie linguistique à l'EHESS que je n'ai jamais fini
