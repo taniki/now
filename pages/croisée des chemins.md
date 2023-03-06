@@ -1,3 +1,4 @@
+- 👋 Salut, bienvenue dans la base de connaissance de [[tam kien duong]]
 - ce à quoi je travaille
 	- [[petite famille]]
 	- [[mediapart]]
@@ -17,4 +18,3 @@
 	- [[système opératoire]]
 	- [[système de connaissance]]
 	- [[sites]]
-- [[tam kien duong]]
