@@ -1,0 +1,6 @@
+node_modules
+
+logseq/
+logseq-*
+
+.DS_Store
