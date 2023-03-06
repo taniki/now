@@ -1,0 +1,7 @@
+- [inventaire notion (lien privé)](https://www.notion.so/tkd/5c61c9da114b4574aa8713cf39589b95?v=75d5268be9474612a853f8b21dc3245e)
+-
+- desktop 2023
+- desktop 2014
+- raspberry pi 4
+- khadas VIM4
+- lenovo t430s

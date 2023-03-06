@@ -17,4 +17,4 @@
 - inventaires
 	- [[système opératoire]]
 	- [[système de connaissance]]
-	- [[@pearl2019]]
+	- [[machines]]
