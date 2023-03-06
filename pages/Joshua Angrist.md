@@ -1,1 +1,3 @@
-type:: person
+---
+type: [[person]]
+---
