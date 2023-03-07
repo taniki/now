@@ -1,0 +1,3 @@
+- la culture technologique est-elle de droite ?
+	- [[californian ideology]]
+	-

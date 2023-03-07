@@ -7,7 +7,7 @@
 		- [[analyse de données]]
 			- [[statistiques]]
 			- visualisation de données
-		- technologie
+		- [[technologie]]
 		- [[économie]]
 		- écologie
 		- écriture
