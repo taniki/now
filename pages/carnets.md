@@ -1,4 +1,7 @@
 - fieldnotes
 	- format memo
 		- rangement dans une boîte
-- capture du flux quotidien
+	- capture du flux quotidien
+- carnets au format A5
+	- bullet journal pendant 2 ans. abandonné pendant le covid.
+	- il m'en reste 3 pas encore ouvert que je pense garder pour des [[keepsake games]]

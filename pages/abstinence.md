@@ -1,0 +1,4 @@
+- café
+- alcool
+- viande
+- nuit

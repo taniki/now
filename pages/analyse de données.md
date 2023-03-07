@@ -1,3 +1,5 @@
+-
+-
 - analyse de donnée et informatique
 - analyser des données est différent de programmer
 	- différence de culture
@@ -10,3 +12,10 @@
 	- quarto
 	- pandas
 	- observable
+- ## veille
+- Une partie du travail d'analyse de donnée est un travail de veille. Cela concerne à la fois les domaines d'application que les méthodes analytiques et les outils informatiques.
+-
+- Counting stuffs
+	- type:: [[substack]]
+	  url:: https://counting.substack.com/
+-

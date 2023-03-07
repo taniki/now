@@ -344,7 +344,7 @@
  :feature/enable-journals? true
  :default-home {:page "croisée des chemins"}
  :feature/enable-flashcards? false
- :graph/settings {:orphan-pages? true, :builtin-pages? false, :excluded-pages? true}
+ :graph/settings {:orphan-pages? true, :builtin-pages? false, :excluded-pages? false}
  :zotero/settings-v2 {"default" {:zotero-data-directory "~/Zotero", :page-insert-prefix "@", :include-attachments? false, :include-notes? false}}
  :publishing/all-pages-public? true
 
