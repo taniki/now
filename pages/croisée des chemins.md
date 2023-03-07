@@ -1,4 +1,5 @@
 - 👋 Salut, bienvenue dans la base de connaissance de [[tam kien duong]]
+-
 - ce à quoi je travaille
 	- [[petite famille]]
 	- [[mediapart]]
@@ -12,8 +13,9 @@
 		- écologie
 		- écriture
 	- [[sortir des grandes plateformes]]
-	-
+-
 - [[digital garden]]
+-
 - inventaires
 	- [[système opératoire]]
 	- [[système de connaissance]]

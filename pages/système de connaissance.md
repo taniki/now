@@ -20,11 +20,12 @@ public: true
 	- [[zettelkasten]] numérique
 		- utilisation de git introduit un peu trop de friction
 	- annotations et gestion des références
-		- readwise
+		- [[readwise]]
 		- [[zotero]]
 - systémisation
 	- notion
 	- base de connaissance numérique
+		- [[logseq]]
 		- le but est de remplacer notion
 - rédaction ?
 	- zettlr ?
