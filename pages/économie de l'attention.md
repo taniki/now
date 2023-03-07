@@ -1,0 +1,3 @@
+- ## bibliographie
+- [[Subprime Attention Crisis]]
+-

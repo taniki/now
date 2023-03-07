@@ -1,6 +1,6 @@
 - sciences économiques
 - économie des médias
-- économie de l'attention
+- [[économie de l'attention]]
   id:: 6405f822-8fea-4dd3-95ba-6cd9c38ac345
 - modèles économiques
 	- plateformes
