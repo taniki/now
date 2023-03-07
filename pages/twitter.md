@@ -1,0 +1,4 @@
+- twitter est une source de distractions
+- twitter est une source de toxicité
+- twitter était une source de communautés
+	- quelles communautés ? tech ?
