@@ -2,3 +2,5 @@
 	- [[californian ideology]]
 	- [[From Counterculture to Cyberculture]]
 	- [[Wired]]
+-
+- la technologie est une source de distance collective (*divide*) tout en étant une source de pouvoir pour une petite fraction de la population.
