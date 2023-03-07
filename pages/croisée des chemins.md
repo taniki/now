@@ -1,5 +1,8 @@
 - 👋 Salut, bienvenue dans la base de connaissance de [[tam kien duong]]
 -
+- ce que je suis entrain de lire :
+	- [[Refuse to Be Done]]
+-
 - ce à quoi je travaille
 	- [[petite famille]]
 	- [[mediapart]]
