@@ -16,8 +16,8 @@ public: true
 	- hasard ?
 - mémorisation
 	- [[carnets]]
-	- zettelkasten physique
-	- zettelkasten numérique
+	- [[zettelkasten]] physique
+	- [[zettelkasten]] numérique
 		- utilisation de git introduit un peu trop de friction
 	- annotations et gestion des références
 		- readwise

@@ -1,5 +1,5 @@
 type:: [[book]]
 
-- [[Manski]]
+- [[Charles Manski]]
 - #mathématiques #probabilités
 - #économie #[[sciences sociales]]

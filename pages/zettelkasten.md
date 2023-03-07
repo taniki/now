@@ -1,0 +1,10 @@
+- Zettelkasten est un système de prise de note théorisé par Niklas Luhman.
+- Spécifiquement, c'est un système centré sur l'usages de fiches
+	- fleeting notes
+	- permanent notes
+	- litterature notes
+	- hub notes
+- système d'indexation conservant un élément de tracabilité
+- interroger le système une fois qu'il a atteint une certaine masse critique
+- sérendipité
+- réduire les frictions et temporiser la production de connaissances en différentes séquences
