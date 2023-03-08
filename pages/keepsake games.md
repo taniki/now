@@ -1,6 +1,6 @@
 ---
 garden: true
-public: true
+public: false
 status: 🌱 seed
 ---
 

@@ -1,7 +1,7 @@
 ---
 garden: true
 status: 🌱 seed
-public: true
+public: false
 ---
 
 - alimentation

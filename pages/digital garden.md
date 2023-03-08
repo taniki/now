@@ -1,7 +1,5 @@
-- {{query (page-property garden "true")}}
-  query-sort-by:: status
-  query-table:: true
-  query-sort-desc:: false
-  query-properties:: [:block :created-at :updated-at :status :page :public]
--
--
+- ## en ligne
+- {{query (and (page-property garden true) (page-property public true))}}
+- ## brouillons
+- {{query (and (page-property garden true) (page-property public false))}}
+  query-properties:: [:page :public :status :created-at :updated-at]
