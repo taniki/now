@@ -2,6 +2,7 @@
 -
 - ce que je suis entrain de lire :
 	- [[Refuse to Be Done]]
+	- [[Elektra]]
 -
 - ce à quoi je travaille
 	- [[petite famille]]
