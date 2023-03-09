@@ -1,5 +1,5 @@
 ---
-ailas: prédiction
+alias: prédiction
 ---
 
 -

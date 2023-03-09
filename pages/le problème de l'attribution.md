@@ -1,4 +1,4 @@
-- https://en.wikipedia.org/wiki/Attribution_(marketing)
+- [[attribution]]
 -
 - protection des données personnelles
 - changement de paradigme web

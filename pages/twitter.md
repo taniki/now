@@ -2,3 +2,6 @@
 - twitter est une source de toxicité
 - twitter était une source de communautés
 	- quelles communautés ? tech ?
+-
+- [[Elon Musk]]
+- [[USA]]

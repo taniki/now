@@ -1,0 +1,7 @@
+- constructeur de [[GPU]]
+- la production est assuré par [[tsmc]]
+-
+- monopole sur [[cuda]]
+-
+- #microchip
+- #USA

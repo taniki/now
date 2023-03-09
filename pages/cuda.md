@@ -1,0 +1,1 @@
+- librairie qui a permis un essor de l' [[IA]] en parallèlisant les calculs sur des [[GPU]]

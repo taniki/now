@@ -12,7 +12,7 @@ status: 🌱 seed
 	- des [[sites]]
 	- et mettre ma pensée en mouvement
 	- permet de mieux ((6405b66e-7a54-4f31-8d8b-be8a96981189))
-- écrire
+- [[écrire]]
   id:: 6405b66e-7a54-4f31-8d8b-be8a96981189
 	- organiser ma pensée
 	- des notes hebdomadaires pour partager ce qui me nourrit
