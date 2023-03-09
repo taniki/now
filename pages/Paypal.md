@@ -1,0 +1,2 @@
+- [[Peter Thiel]]
+- [[Elon Musk]]

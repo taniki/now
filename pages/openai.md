@@ -1,0 +1,9 @@
+- CEO : [[Sam Altman]]
+- Ancien CEO : [[Elon Musk]]
+-
+- ## ChatGPT
+- {{query ChatGPT}}
+-
+- ## investisseurs
+- [[Reid Hoffman]]
+- [[Microsoft]]

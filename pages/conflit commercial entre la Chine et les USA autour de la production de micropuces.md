@@ -1,0 +1,4 @@
+- #microchip
+- #Chine
+- #USA
+- #Taïwan

@@ -1,0 +1,4 @@
+- # polycrise
+	- [[invasion de l'ukraine par la russie]]
+	- COVID
+	- [[conflit commercial entre la Chine et les USA autour de la production de micropuces]]

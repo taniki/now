@@ -1,0 +1,10 @@
+- cycle [économique]([[économie]]) actuelle
+	- domination économique des États-Unis
+	- économies néo-libérales
+	- montée de la chine
+	- évolution démographique
+	- [[invasion de l'ukraine par la russie]]
+- cycles précédents
+	- cycle colonisé/colonisateur pour les pays européens
+	- décolonisation
+	- effondremens du bloc soviétique
