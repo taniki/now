@@ -1,0 +1,6 @@
+- une publicité est un investissement économique
+	- rendement pour l'annonceur, celui qui cherche à vendre une marchandise ou un produit
+	- marge pour l'agence de publicité
+	- marge pour la régie publicitaire qui exploite une rente sur location d'espaces publicitaires
+		- par exemple, la presse écrite vend de l'espace graphique et une audience (ou un lectorat) à des annonceurs
+		- ces régies sont parfois déléguées à des prestataires ou des partenaires gérant des espaces graphiques d'autres sites

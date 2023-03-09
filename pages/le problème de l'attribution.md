@@ -1,0 +1,10 @@
+- https://en.wikipedia.org/wiki/Attribution_(marketing)
+-
+- protection des données personnelles
+- changement de paradigme web
+- apple
+-
+- voir les contorsions de l'[[The Interactive Advertising Bureau]]
+-
+- mesure de performance des publicités
+	- [[économie de l'attention]]

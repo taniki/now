@@ -7,5 +7,5 @@
 	- plateformes
 	- modèle économique basé sur les abonnements
 		- time value of money
-	- modèle économique basé sur la publicité
+	- modèle économique basé sur la [[publicité]]
 		- ((6405f822-8fea-4dd3-95ba-6cd9c38ac345))
