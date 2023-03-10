@@ -1,0 +1,4 @@
+- ## bibliographie
+- [[Mastering 'Metrics]]
+- [[Mostly Harmless Econometrics]]
+- [[Identification Problems in Social Sciences]]

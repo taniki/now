@@ -9,3 +9,16 @@
 		- time value of money
 	- modèle économique basé sur la [[publicité]]
 		- ((6405f822-8fea-4dd3-95ba-6cd9c38ac345))
+-
+- ## macro économie
+- inflation
+- recession
+- stagflation
+- trade balance
+- domestic accounting
+-
+- [[économétrie]]
+-
+- ## bibliographie
+- [[Doughnut Economics]]
+- [[Economics: The User's Guide]]
