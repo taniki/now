@@ -15,7 +15,7 @@
 		- [[technologie]]
 		- [[économie]]
 		- écologie
-		- écriture
+		- [écriture]([[écrire]])
 	- [[sortir des grandes plateformes]]
 -
 - [[digital garden]]
