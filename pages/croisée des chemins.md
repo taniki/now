@@ -7,6 +7,7 @@
 - ce à quoi je travaille
 	- [[petite famille]]
 	- [[mediapart]]
+-
 - ce qui m'occupe personnellement en ce moment
 	- thèmes
 		- [[analyse de données]]
@@ -18,9 +19,9 @@
 		- [écriture]([[écrire]])
 	- [[sortir des grandes plateformes]]
 -
-- [[digital garden]]
 -
 - inventaires
 	- [[système opératoire]]
 	- [[système de connaissance]]
+	- [[digital garden]]
 	- [[machines]]
