@@ -1,4 +1,5 @@
-- 👋 Salut, bienvenue dans la base de connaissance de [[tam kien duong]]
+- 👋 Salut, je suis [[tam kien duong]].
+  bienvenue dans cet instrument ((64077a79-1be1-49ce-8989-9d59d8bd4caa)).
 -
 - ce que je suis entrain de lire :
 	- [[Mapping Affinities]]
@@ -12,13 +13,15 @@
 	- thèmes
 		- [[analyse de données]]
 			- [[statistiques]]
-			- visualisation de données
+			- [[visualisation de données]]
 		- [[technologie]]
 		- [[économie]]
-		- écologie
+		- [[écologie]]
 		- [écriture]([[écrire]])
-	- [[sortir des grandes plateformes]]
--
+	- problématiques
+		- [[observer la marche du monde pour en rendre compte]]
+		- [[m'organiser]]
+		- [[sortir des grandes plateformes]]
 -
 - inventaires
 	- [[système opératoire]]

@@ -24,9 +24,10 @@ public: false
 		- [[zotero]]
 - systémisation
 	- notion
-	- base de connaissance numérique
-		- [[logseq]]
-		- le but est de remplacer notion
+	- veille ouverte
+	  id:: 64077a79-1be1-49ce-8989-9d59d8bd4caa
+		- [[veille.11d.im]]
+		- faire circuler l'information dans mon système de pensée et donner à voir une partie du fonctionnement de celui-ci.
 - rédaction ?
 	- zettlr ?
 	- [[neovim]]
