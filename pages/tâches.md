@@ -1,0 +1,7 @@
+- ## en cours
+- {{query (task NOW)}}
+- ## next
+- {{query (task LATER)}}
+- ## historique
+- {{query (task DONE) }}
+-
