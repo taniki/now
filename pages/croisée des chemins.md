@@ -28,3 +28,5 @@
 	- [[système de connaissance]]
 	- [[digital garden]]
 	- [[machines]]
+-
+- exclude-from-graph-view:: true
