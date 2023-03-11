@@ -1,5 +1,5 @@
 ---
-ailas: SBF
+alias: SBF
 ---
 
 - #crypto #USA

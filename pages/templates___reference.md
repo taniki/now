@@ -1,4 +1,5 @@
 ---
+template: true
 from: zotero
 ---
 

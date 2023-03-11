@@ -1,3 +1,11 @@
+- ## concepts
+- natural experiments and quasi-natural experiments
+-
+- ## méthodes
+- variables instrumentales
+- diff in diff
+- regression discontinuity
+-
 - ## bibliographie
 - [[Mastering 'Metrics]]
 - [[Mostly Harmless Econometrics]]

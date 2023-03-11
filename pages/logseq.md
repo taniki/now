@@ -5,8 +5,15 @@ type: outils
 - influences : Org Mode et Roam
 - #pkm
 -
-- ## rendre public un dépôt github contenant un graphe
+- ## requêtes
+- `/query`
+- `{{query }}`
+- https://docs.logseq.com/#/page/queries
+- https://docs.logseq.com/#/page/advanced%20queries
+- https://en.wikipedia.org/wiki/Datalog
+- https://github.com/tonsky/datascript
 -
+- ## rendre public un dépôt github contenant un graphe
 - https://github.com/pengx17/logseq-publish
 -
 - ## plugins que j'utilise

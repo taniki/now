@@ -259,12 +259,12 @@
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}
- :property-pages/excludelist #{:url :author :type}
+ :property-pages/excludelist #{:url :read :author :type :alias}
 
  ;; By default, property value separated by commas will not be treated as
  ;; page references. You can add properties to enable it.
  ;; E.g. :property/separated-by-commas #{:alias :tags}
- ;; :property/separated-by-commas #{}
+ :property/separated-by-commas #{:type :author :alias :tags}
 
  ;; Properties that are ignored when parsing property values for references
  :ignored-page-references-keywords #{:url :read}
