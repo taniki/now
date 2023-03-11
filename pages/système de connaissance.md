@@ -28,6 +28,11 @@ public: false
 	  id:: 64077a79-1be1-49ce-8989-9d59d8bd4caa
 		- [[veille.11d.im]]
 		- faire circuler l'information dans mon système de pensée et donner à voir une partie du fonctionnement de celui-ci.
+		- faire voir l'information qui me passe sous les yeux
+		- faire voir comment je la tranforme et elle me transforme
+		- c'est un acte de métabolisation
+		- c'est une trace de mouvement de ma pensée
+		- le dispositif est [[perfomatif]]
 - rédaction ?
 	- zettlr ?
 	- [[neovim]]
