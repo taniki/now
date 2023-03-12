@@ -4,7 +4,7 @@ read: 2023-03-08
 ---
 
 - NOW sélectionner des citations
-- LATER écrire une synthèse
+- DONE écrire une synthèse
 -
 - 3 drafts différents avant d'arriver à un livre
 	- first draft

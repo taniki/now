@@ -4,3 +4,10 @@
 	- [[Wired]]
 -
 - la technologie est une source de distance collective (*divide*) tout en étant une source de pouvoir pour une petite fraction de la population.
+-
+- big web et small web
+-
+- cyber et numérique
+	- cybernétique
+	- cyberpunk
+	- cyberculture

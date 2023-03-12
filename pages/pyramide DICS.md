@@ -15,5 +15,5 @@ alias: diwk
   > Where is the knowledge we have lost in information?
   > The cycles of Heaven in twenty centuries
   > Bring us farther from God and nearer to the Dust.
-	- legacy:: https://github.com/taniki/zettelkasten/blob/main/16.md
+	- legacy:: 16
 	-

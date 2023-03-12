@@ -1,0 +1,4 @@
+- Univers orienté #[[science fiction]]
+- société post-capitaliste
+	- synthétiseur
+	- post-travail

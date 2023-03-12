@@ -5,6 +5,8 @@ type: outils
 - influences : Org Mode et Roam
 - #pkm
 -
+- edn
+	- https://github.com/edn-format/edn
 - ## requêtes
 - `/query`
 - `{{query }}`

@@ -1,0 +1,2 @@
+- références vers mon "ancienne" zettelkasten numérique : https://github.com/taniki/zettelkasten
+-

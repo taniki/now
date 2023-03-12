@@ -1,3 +1,5 @@
+icon:: 🌲
+
 - ## en ligne
 - {{query (and (page-property garden true) (page-property public true))}}
 - ## brouillons
