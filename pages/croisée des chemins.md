@@ -6,6 +6,7 @@ icon:: 🧭
 -
 - ce que je suis entrain de lire :
 	- [[Mapping Affinities]]
+	- [[L'appel à la vigilance]]
 	- [[Elektra]]
 -
 - ce à quoi je travaille
@@ -14,8 +15,9 @@ icon:: 🧭
 -
 - ce qui m'occupe personnellement en ce moment
 	- thèmes
-		- [[analyse de données]]
-			- [[statistiques]]
+		- travail de la donnée
+			- [[analyse de données]]
+				- [[statistiques]]
 			- [[visualisation de données]]
 		- [[technologie]]
 		- [[économie]]
