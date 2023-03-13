@@ -1,0 +1,5 @@
+- https://fr.wikipedia.org/wiki/Droits_voisins_du_droit_d%27auteur_en_France
+	- > Les plates-formes en ligne doivent en outre rémunérer les éditeurs de presse dont elles republient les contenus.
+	-
+- DIRECTIVE (UE) 2019/790 DU PARLEMENT EUROPÉEN ET DU CONSEIL
+	- https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32019L0790

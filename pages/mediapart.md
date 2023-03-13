@@ -1,3 +1,7 @@
+type:: media
+abonné:: true
+
+-
 - apporter un soutien aux équipes opérationnelles avec
 	- [[statistiques]]
 	- [[architecture de l'information]]
