@@ -1,8 +1,9 @@
 ---
 type: [[book]]
+author: Ursula Le Guin
 ---
 
-- [[Ursula Le Guin]]
-- manuel d' [[écriture]]
+-
+- manuel d'[[écriture]]
 	- exercices
 	- exemples

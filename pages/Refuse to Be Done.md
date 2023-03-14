@@ -1,6 +1,7 @@
 ---
 type: [[book]]
 read: 2023-03-08
+author: Matt Bell
 ---
 
 - NOW sélectionner des citations

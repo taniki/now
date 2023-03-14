@@ -3,23 +3,34 @@ type: outils
 ---
 
 - influences : Org Mode et Roam
+- alternatives
+	- Obsidian
 - #pkm
 -
 - edn
 	- https://github.com/edn-format/edn
+-
+- hiccup
+	- https://github.com/weavejester/hiccup
+	- https://github.com/weavejester/hiccup/wiki/Syntax
+	-
 - ## requêtes
-- `/query`
-- `{{query }}`
-- https://docs.logseq.com/#/page/queries
-- https://docs.logseq.com/#/page/advanced%20queries
-- https://en.wikipedia.org/wiki/Datalog
-- https://github.com/tonsky/datascript
+	- inputs
+		- `/query`
+		- `{{query }}`
+	- liens utiles
+		- https://docs.logseq.com/#/page/queries
+		- https://docs.logseq.com/#/page/advanced%20queries
+		- https://en.wikipedia.org/wiki/Datalog
+		- https://github.com/tonsky/datascript
+		- https://mschmidtkorth.github.io/logseq-msk-docs/#/page/queries%2Fadvanced%20queries
+		- https://max-datom.com/
 -
 - ## rendre public un dépôt github contenant un graphe
-- https://github.com/pengx17/logseq-publish
+	- https://github.com/pengx17/logseq-publish
 -
 - ## plugins que j'utilise
-- [Git](https://github.com/haydenull/logseq-plugin-git)
-- [Tags](https://github.com/gidongkwon/logseq-plugin-tags)
-- [Heatmap](https://github.com/pengx17/logseq-plugin-heatmap)
-- [Random note](https://github.com/tankcool/logseq-random-note)
+	- [Git](https://github.com/haydenull/logseq-plugin-git)
+	- [Tags](https://github.com/gidongkwon/logseq-plugin-tags)
+	- [Heatmap](https://github.com/pengx17/logseq-plugin-heatmap)
+	- [Random note](https://github.com/tankcool/logseq-random-note)
