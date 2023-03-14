@@ -1,7 +1,7 @@
 type:: [[book]]
 author:: Edwy Plenel
 
-- Maurice Olender
+- [[Maurice Olender]]
 	- Tribune de 1993 dans le monde
 	- Mémoires 2018
 - Dougine
