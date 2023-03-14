@@ -1,6 +1,6 @@
 ---
 type: [[book]]
+author: Joshua Angrist
 ---
 
-- [[Joshua Angrist]]
 -
