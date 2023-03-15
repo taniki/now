@@ -1,0 +1,7 @@
+- [[guerre économique]]
+- ## technologies émergentes
+	- [[microchip]]
+	- [[intelligence artificielle]]
+	- [[5G]]
+	- énergies renouvellables
+	- batteries pour les véhicules électriques
