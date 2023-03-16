@@ -5,9 +5,12 @@ icon:: 🧭
   bienvenue dans cet instrument ((64077a79-1be1-49ce-8989-9d59d8bd4caa)).
 -
 - ce que je suis entrain de lire :
+	- [[The Long Way to a Small, Angry Planet]]
+	- [[Controversy Mapping: A Field Guide]]
+	-
+- lu et à dépiauter
 	- [[Mapping Affinities]]
 	- [[L'appel à la vigilance]]
-	- [[Elektra]]
 -
 - ce à quoi je travaille
 	- [[petite famille]]

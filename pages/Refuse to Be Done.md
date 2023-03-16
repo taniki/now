@@ -1,6 +1,6 @@
 ---
 type: [[book]]
-read: 2023-03-08
+read: [[2023-03-08]] 
 author: Matt Bell
 ---
 
