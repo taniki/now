@@ -4,6 +4,8 @@
 		- [[data.11d.im]]
 		- [[veille.11d.im]]
 		- [[six.photos]]
+	- communauté
+		- [[social.apreslanu.it]]
 	- mes anciens sites : https://11d.im/notices/cimetierre-sites-web/
 - les sites des autres
 	- qui ont un flux un RSS
