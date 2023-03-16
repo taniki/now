@@ -1,8 +1,0 @@
-- #microchip
-- #Chine
-- #USA
-- #Taïwan
--
-- ## bibliographie
--
-- [[Chip War]]

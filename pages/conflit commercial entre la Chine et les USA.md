@@ -1,7 +1,16 @@
+- #microchip
+- #Chine
+- #USA
+- #Taïwan
+-
 - [[guerre économique]]
-- ## technologies émergentes
+## technologies émergentes
 	- [[microchip]]
 	- [[intelligence artificielle]]
 	- [[5G]]
 	- énergies renouvellables
 	- batteries pour les véhicules électriques
+-
+- ## bibliographie
+	- [[Chip War]]
+	- [[Trade Wars Are Class War]]
