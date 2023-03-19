@@ -8,3 +8,7 @@ type: site
 	- [[logseq]] pour l'interface d'édition et de visualisation
 	- [[github]] pour le stockage et la publication
 	- [[netlify]] pour la diffusion
+-
+- ## inspiration
+	- https://マリウス.com/
+	-

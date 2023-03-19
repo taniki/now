@@ -1,0 +1,8 @@
+- [[fediverse]]
+- [[twitter]]
+- ## mes billets sur ie sujet
+	- https://11d.im/yo/20221122213430/
+- ## ressources
+	- https://jonathangray.org///2022/10/30/fediverse/
+	- https://blog.professeurjoachim.com/billet/2018-12-05-un-guide-rapide-de-mastodon
+	-

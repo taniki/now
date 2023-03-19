@@ -46,7 +46,7 @@ status: 🌱 seed
 		- générés par [11ty](https://www.11ty.dev/)
 			- `journal.xml`
 			- `tempusfugit.xml`
-	- mastodon
+	- [[mastodon]]
 		- publication automatisée par zapier sur ((6405c72e-99e2-498c-be15-ef7c1fbb53cf))
 	- webmention
 		- ping des sites cités via webmention avec plugin netlify intégré

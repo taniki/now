@@ -5,3 +5,9 @@
 -
 - [[Elon Musk]]
 - [[USA]]
+-
+- https://11d.im/yo/2021-05-23-ecrire-des-tweets/
+- https://11d.im/yo/20221102211040/
+- https://11d.im/yo/20221105110713/
+- https://11d.im/yo/20221118222646/
+- https://11d.im/yo/20221122213430/
