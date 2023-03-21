@@ -7,7 +7,9 @@
 	- 2023
 		- [[apple]]
 		- [[notion]]
-		- google/search -> you.com
+		- google
+			- search -> you.com
+		- youtube
 	- 2024
 		- ms/github
 		  id:: 6405fa83-dcaa-4b92-9f83-8974bb07b51e
