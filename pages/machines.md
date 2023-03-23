@@ -13,5 +13,6 @@
 	  id:: 641c1135-d959-4b99-b847-99c4255b15fb
 	- apple watch se
 	- ipad pro 11"
+	  id:: 641c10b4-7776-44dc-9edd-1195d33e270c
 	- airpods pro
 	  id:: 641c10b8-f82a-4010-af29-0f5c36fa8ab2
