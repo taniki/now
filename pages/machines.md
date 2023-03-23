@@ -3,10 +3,11 @@
 - ## ordinateurs
 	- `kastalien`
 		- [[GPU]] : RTX 3090 [[nvidia]]
+	- lenovo t430s
+		- https://www.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops.html
 	- `jaures01`
 	- raspberry pi 4
 	- khadas VIM4
-	- lenovo t430s
 -
 - ## machins apple
 	- iphone 13 mini

@@ -4,6 +4,20 @@ author:: Tommaso Venturini, Anders Kristian Munk
 - [[ANT]]
 - [[Digital methods]]
 -
+- ## sommaire
+	- introduction
+	- 1. why map controversies?
+	- 2. a proliferation of issues
+	- 3. making room for more actors
+	- 4. exploring controversies as actor-networks
+	- 5. exploring controversies with digital methods
+	- 6. collecting and curating digital records
+	- 7. visual network analysis
+	- 8. representing controversies
+	- 9. mapmaking as a forme of intervention
+	- controversy mapping in the shadow of Gaia
+	- a conversation with Bruno Latour
+-
 - cartographer's creed
 	- > 1. **I will follow the actors.** (...)
 	  > 2. **I will provide weighting.** (...)
