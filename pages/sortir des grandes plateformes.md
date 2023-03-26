@@ -17,6 +17,7 @@
 				- prendre des photos
 				- stocker des photos
 				- scanner des QR codes
+				- OTP
 		- [[notion]]
 		- google
 			- DONE search

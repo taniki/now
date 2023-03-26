@@ -1,0 +1,9 @@
+- ## matériel
+	- Ricoh GR III
+	- Canon Selphy
+-
+- ## imprimer sous linux
+	- gnome photos
+	- darktable
+-
+-

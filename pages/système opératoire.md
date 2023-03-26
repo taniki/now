@@ -21,7 +21,7 @@ status: 🌱 seed
 	- et transformer le monde
 - parler
 	- et dire les choses
-- photographier
+- [[photographier]]
 - consommer des images
 - jouer
   id:: 6405b675-d484-4230-99f3-e727195ff24a
