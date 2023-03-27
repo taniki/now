@@ -26,3 +26,12 @@ author:: Tommaso Venturini, Anders Kristian Munk
 	  > 5. **I will follow the medium.** (...)
 	  > 6. **I will draw legible maps.** (...)
 	  > 7. **I will open my inquiry to others.** (...)
+-
+- controversy mapping = [[ANT]] + [[Digital methods]]
+	- [[ANT]] = ethnograpie + [[sémiotique]]
+		- > controversy mapping is never a form of "distang reading" (Moretti, 2013b)And always a form of "digital fieldwork" (Munk, 2013; Venturini & Rogers, 2019)
+			- page:: 120
+		- experiencing
+		- inquiring
+		- examining
+		-
