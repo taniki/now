@@ -34,4 +34,10 @@ author:: Tommaso Venturini, Anders Kristian Munk
 		- experiencing
 		- inquiring
 		- examining
-		-
+	- digital methods
+		- collecting digital records
+		- curating them into a corpus
+		- analyzing the corpus
+		- making the research public
+-
+-
