@@ -40,4 +40,10 @@ author:: Tommaso Venturini, Anders Kristian Munk
 		- analyzing the corpus
 		- making the research public
 -
--
+- ## follow up
+	- LATER lire le dernier chapitre
+	- [[Shaping Technology/Building Society]]
+	- [[New Blackwell Companion to Social Theory]]
+	- Tukey 1977 [[Exploratory Data Analysis]]
+	- Latour
+	- Greimas
