@@ -1,5 +1,6 @@
 type:: [[book]]
 author:: Tommaso Venturini, Anders Kristian Munk
+read:: 2023-03-23
 
 - [[ANT]]
 - [[Digital methods]]

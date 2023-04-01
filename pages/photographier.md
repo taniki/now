@@ -13,3 +13,7 @@ alias:: photographie
 	- snap focus
 	- weighted metering
 	- IBIS inbalance balance image stabilization
+-
+- ## ressources
+	- https://sites.google.com/site/marclevoylectures/home
+	-

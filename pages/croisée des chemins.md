@@ -5,12 +5,9 @@ icon:: 🧭
   bienvenue dans cet instrument ((64077a79-1be1-49ce-8989-9d59d8bd4caa)).
 -
 - ce que je suis entrain de lire :
-	- [[Controversy Mapping: A Field Guide]]
-	- [[A Closed and Common Orbit]]
-	-
-- lu et à dépiauter
-	- [[Mapping Affinities]]
-	- [[L'appel à la vigilance]]
+	- [[Dormir sans larmes]]
+	- [[Record of a Spaceborn Few]]
+	- [[The Galaxy, and the Ground Within]]
 -
 - ce à quoi je travaille
 	- [[petite famille]]
