@@ -27,6 +27,7 @@ alias:: photographie
 			- https://www.youtube.com/c/SamuelLStreetlife
 		- https://ricohrecipes.com/
 		- https://www.lukeptaylor.com/ricoh-gr-film-simulations
+		- https://www.youtube.com/@DozierGraphic
 -
 - Panasonic GX-80
   id:: 6429841e-3920-4495-9ac3-9bac022d1566
