@@ -4,10 +4,8 @@ icon:: 🧭
 - 👋 Salut, je suis [[tam kien duong]].
   bienvenue dans cet instrument ((64077a79-1be1-49ce-8989-9d59d8bd4caa)).
 -
-- ce que je suis entrain de lire :
-	- [[Dormir sans larmes]]
-	- [[Record of a Spaceborn Few]]
-	- [[The Galaxy, and the Ground Within]]
+- ce que je suis entrain de lire
+	- [[A Deadly Education]]
 -
 - ce à quoi je travaille
 	- [[petite famille]]
