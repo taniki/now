@@ -14,6 +14,8 @@ status: 🌱 seed
 - notorious
 - colostle
 	- https://www.colostle.com/
+- artefact
+	- https://mouseholepress.itch.io/artefact
 -
 -
 - ## références
