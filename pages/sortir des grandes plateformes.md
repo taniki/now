@@ -26,9 +26,10 @@
 		- google
 			- DONE search
 				- remplacé par you.com
-			- DONE google mail
-				- remplacé
 		- youtube
+		- goodreads
+			- lire.boitam.eu
+			- [[livres]]
 	- 2024
 		- ms/github
 		  id:: 6405fa83-dcaa-4b92-9f83-8974bb07b51e
