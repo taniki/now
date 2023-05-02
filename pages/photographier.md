@@ -2,6 +2,7 @@ alias:: photographie
 
 -
 - photographier pour documenter
+	- archiver le quotidien
 -
 - ## matériel
 	- numérique
