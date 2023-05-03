@@ -25,6 +25,7 @@ alias:: photographie
 -
 - Ricoh GR III
   id:: 6425512c-9e6d-47ae-b24c-a42b6992d6ed
+	- lentille fixe 18mm eq. 28mm f2.8
 	- fonctionalités
 		- snap focus
 		- weighted metering
