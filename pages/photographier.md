@@ -45,6 +45,7 @@ alias:: photographie
 -
 - Fuji X-PRO1
   id:: 6450add4-859d-4af2-a775-eeee2a6181e6
+	- https://dl.fujifilm-x.com/support/manual/x/fujifilm_xpro1_manual_en.pdf
 -
 - Fuji X-100T
 	- prêt de Joachim
