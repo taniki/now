@@ -5,7 +5,7 @@ icon:: 🧭
   bienvenue dans cet instrument ((64077a79-1be1-49ce-8989-9d59d8bd4caa)).
 -
 - ce que je suis entrain de lire
-	- [[The Golden Enclaves]]
+	- [[Nettle & Bone]]
 	- [[Shaping Technology/Building Society]]
 -
 - ce à quoi je travaille
