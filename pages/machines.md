@@ -13,6 +13,7 @@
 	- iphone 13 mini
 	  id:: 641c1135-d959-4b99-b847-99c4255b15fb
 	- apple watch se
+	  id:: 6441309a-8d5a-4e6f-aae1-d50b9cc94cd6
 	- ipad pro 11"
 	  id:: 641c10b4-7776-44dc-9edd-1195d33e270c
 	- airpods pro
