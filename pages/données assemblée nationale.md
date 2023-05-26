@@ -12,3 +12,7 @@
 	- https://datan.fr
 	- https://nosdeputes.fr
 	- https://www.lefigaro.fr/fig-data/fidele-au-groupe-ou-trublion-solitaire-comment-vote-votre-depute-20221025/
+-
+- ## articles mediapart à partir de ces données
+	- https://www.mediapart.fr/journal/politique/130523/nupes-l-assemblee-les-chiffres-prouvent-que-le-groupe-vit-plutot-bien
+	-
