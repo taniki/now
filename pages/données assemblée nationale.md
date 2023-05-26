@@ -7,3 +7,8 @@
 	- Les participants des réunions ne semblent pas être automatiquement signalés.
 		- NosDéputés.fr les retrouve dans le JO
 	- lien entre les débats, les textes, les votes et les amendements ne semble pas évident et est à reconstruire.
+-
+- ## exploitation des données par des tiers
+	- https://datan.fr
+	- https://nosdeputes.fr
+	- https://www.lefigaro.fr/fig-data/fidele-au-groupe-ou-trublion-solitaire-comment-vote-votre-depute-20221025/
