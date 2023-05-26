@@ -6,7 +6,6 @@ icon:: 🧭
 -
 - ce que je suis entrain de lire
 	- [[Nettle and Bone]]
-	- [[Adieux au capitalisme]]
 	- [[Shaping Technology/Building Society]]
 -
 - ce à quoi je travaille
