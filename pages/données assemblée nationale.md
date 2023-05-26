@@ -6,4 +6,4 @@
 - ## données manquantes
 	- Les participants des réunions ne semblent pas être automatiquement signalés.
 		- NosDéputés.fr les retrouve dans le JO
-	- lien entre les débats, les textes, les votes et les amendements ne semble pas évident et est à reconstruire pour suivre qui dép
+	- lien entre les débats, les textes, les votes et les amendements ne semble pas évident et est à reconstruire.
