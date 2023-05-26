@@ -6,7 +6,7 @@
 	- votes/scrutins
 	- réunions
 	- débats
-	-
+	- amendements
 -
 - ## données de référence
 	- organes
