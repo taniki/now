@@ -2,7 +2,16 @@
 - https://www.assemblee-nationale.fr/ceresian/cr_redirect.asp?IdCR=CRCANR5L16S2023PO419610N058
 - https://www.nosdeputes.fr/16/seance/1344#table_2554
 -
+- ## données
+	- votes/scrutins
+	- réunions
+	- débats
+	-
 -
+- ## données de référence
+	- organes
+	- acteurs
+	-
 - ## données manquantes
 	- Les participants des réunions ne semblent pas être automatiquement signalés.
 		- NosDéputés.fr les retrouve dans le JO
