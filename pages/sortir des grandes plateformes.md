@@ -10,8 +10,9 @@
 			- fonctions qui me rendent dépendant à l' ((641c1135-d959-4b99-b847-99c4255b15fb))
 				- DONE apple pay/wallet
 					- porte-cartes bellroy
-				- écouter des podcasts et de la musique
+				- DONE écouter des podcasts et de la musique
 					- ((641c10b8-f82a-4010-af29-0f5c36fa8ab2))
+					- ((64921274-653c-45bc-9ab5-2d9c08e4f075))
 				- DONE téléphoner
 					- Punkt MP02
 				- apps de messagerie nécessitant une vérification du numéro de téléphone
@@ -20,7 +21,7 @@
 				- DONE prendre des photos
 					- ((6425512c-9e6d-47ae-b24c-a42b6992d6ed))
 				- stocker des photos
-				- scanner des QR codes
+				- DONE scanner des QR codes
 				- OTP
 		- [[notion]]
 		- google
