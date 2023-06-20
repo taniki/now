@@ -1,0 +1,7 @@
+- ## charger de la musique et des podcasts
+	- rhytmbox
+	- gtkpod
+- ## trouver de la musique
+	- bandcamp
+	- amazon mp3 :(
+	-
