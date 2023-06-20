@@ -1,3 +1,6 @@
+- ## où en trouver
+	- https://eoe.works/collections/refurbished-apple-ipod-4th-generation-monochrome-2004/products/ipod-classic-4th-monochrome-tarkan-iflash-1300mah-new-refurbished?variant=39980737986697
+	- leboncoin
 - ## charger de la musique et des podcasts
 	- rhytmbox
 	- gtkpod
