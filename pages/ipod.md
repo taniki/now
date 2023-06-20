@@ -7,4 +7,7 @@
 - ## trouver de la musique
 	- bandcamp
 	- amazon mp3 :(
+- ## connectique
+	- cable 30 pin / USB
+	- cable 30 pin / FireWire 400
 	-
