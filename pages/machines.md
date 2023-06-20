@@ -10,6 +10,7 @@
 	- khadas VIM4
 -
 - ## machins apple
+	- ipod 4 -
 	- iphone 13 mini
 	  id:: 641c1135-d959-4b99-b847-99c4255b15fb
 	- apple watch se
