@@ -10,7 +10,7 @@
 	- raspberry pi 4
 	- khadas VIM4
 -
-- ## machins apple
+- ## machins [[apple]]
 	- tags:: inventaire
 	- ipod 4
 	  id:: 64921274-653c-45bc-9ab5-2d9c08e4f075
