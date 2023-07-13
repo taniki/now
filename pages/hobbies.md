@@ -1,0 +1,10 @@
+- [[claviers]]
+-
+- par ordre chronologique
+	- [[League of Legends]]
+	- [[Magic the Gathering]]
+	- [[Street Fighter 5]]
+	- [[Gunpla]]
+	- [[onewheel]]
+	- [[photographie]]
+	- [[skateboard]]

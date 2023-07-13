@@ -26,6 +26,8 @@ icon:: 🧭
 		- [[observer la marche du monde pour en rendre compte]]
 		- [[m'organiser]]
 		- [[sortir des grandes plateformes]]
+	- [[publications]]
+	- [[hobbies]]
 -
 - inventaires
 	- [[système opératoire]]

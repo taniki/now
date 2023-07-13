@@ -13,4 +13,4 @@ author:: Dominique Pinsolle
 	- à quoi ressemblerait un service public de l'information à notre époque ?
 		- "social media" public. comme La Poste était à une époque un moyen de fournir un email comme un service public.
 		- CMS
-			- Spip
+			- Spip. sic.
