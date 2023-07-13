@@ -5,6 +5,7 @@ alias:: photographie
 	- archiver le quotidien
 -
 - ## matériel
+	- tags:: inventaire
 	- numérique
 		- ((6425512c-9e6d-47ae-b24c-a42b6992d6ed))
 		- ((6429841e-3920-4495-9ac3-9bac022d1566))
