@@ -1,6 +1,7 @@
 - [inventaire notion (lien privé)](https://www.notion.so/tkd/5c61c9da114b4574aa8713cf39589b95?v=75d5268be9474612a853f8b21dc3245e)
 -
 - ## ordinateurs
+	- tags:: inventaire
 	- `kastalien`
 		- [[GPU]] : RTX 3090 [[nvidia]]
 	- lenovo t430s
@@ -10,6 +11,7 @@
 	- khadas VIM4
 -
 - ## machins apple
+	- tags:: inventaire
 	- ipod 4
 	  id:: 64921274-653c-45bc-9ab5-2d9c08e4f075
 	- iphone 13 mini

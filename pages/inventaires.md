@@ -1,0 +1,5 @@
+alias:: inventaire
+title:: inventaires
+
+-
+-
