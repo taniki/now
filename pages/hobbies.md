@@ -1,7 +1,7 @@
-- [[claviers]]
 -
 - par ordre chronologique
 	- [[Lego]]
+	- [[claviers]]
 	- [[League of Legends]]
 	- [[Magic the Gathering]]
 	- [[Street Fighter 5]]
