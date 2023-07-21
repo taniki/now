@@ -1,4 +1,5 @@
 - ## inventaire
 	- tags:: inventaire
 	- Décathlon Yamba 500
-	- Land Yachtz Switch 40 drop-down
+	- LandYachtz Switch 40 drop-down
+	- LandYachtz Tugboat
