@@ -1,4 +1,4 @@
 type:: book
 
 - Legacy modernisation
-- Legac
+- Legacy vs technical debt
