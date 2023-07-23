@@ -8,3 +8,4 @@
 - habiter en oiseau
 - ton absence n'est que ténèbres
 - la presse, le pouvoir et l'argent
+- [[Shaping Technology]]
