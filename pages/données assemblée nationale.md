@@ -28,4 +28,5 @@
 -
 - ## articles mediapart à partir de ces données
 	- https://www.mediapart.fr/journal/politique/130523/nupes-l-assemblee-les-chiffres-prouvent-que-le-groupe-vit-plutot-bien
+	- https://www.mediapart.fr/journal/politique/220623/un-de-votes-attrape-tout-pour-le-rn
 	-
