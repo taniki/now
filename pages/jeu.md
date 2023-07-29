@@ -1,3 +1,7 @@
 - [[jeux vidéos]]
 - [[jeux de rôle]]
 - [[keepsake games]]
+-
+-
+- #inventaire
+	- [[Le défi de la reine]]
