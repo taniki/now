@@ -1,6 +1,5 @@
 type:: game
 
 -
-- Jeu de plateau solo
--
+- Jeu de plateau solo avec plein de dés
 -
