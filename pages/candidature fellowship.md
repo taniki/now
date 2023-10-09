@@ -44,10 +44,10 @@
 	- What would be your research plan and intermediate steps?
 		- ### draft
 	- What would you need from other fellows?
-		- > For example: I’m planning to do a statistical analysis on credit scores; I’d need another fellow to interview people on the ground to verify my 
-		  findings.
+		- > For example: I’m planning to do a statistical analysis on credit scores; I’d need another fellow to interview people on the ground to verify my findings.
 		- ### draft
-			-
+			- états des lieux sur la législation européenne concernant la protection des citoyens, la justice sociale et les initiatives de réduction du digital gap
+			- comparaison avec d'autres pays sur les structures de pouvoir et les intérêts particulier à l'informatisation
 	- Would you need an extra budget to carry out your research? Please list each item of expenditure and its cost.
 -
 - https://github.com/taniki/assemblee-nationale
