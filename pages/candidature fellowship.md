@@ -31,7 +31,12 @@
 			- Knowledge
 			- Platform capitalism
 	- What would be your research plan and intermediate steps?
+		- ### draft
 	- What would you need from other fellows?
+		- > For example: I’m planning to do a statistical analysis on credit scores; I’d need another fellow to interview people on the ground to verify my 
+		  findings.
+		- ### draft
+			-
 	- Would you need an extra budget to carry out your research? Please list each item of expenditure and its cost.
 -
 - https://github.com/taniki/assemblee-nationale
