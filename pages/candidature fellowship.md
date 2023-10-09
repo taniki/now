@@ -3,14 +3,30 @@
 - ## deadline
 	- `12.11.2023`
 	- > The deadline to apply is Sunday, 12 November 23:59 CET (find below the application form).
--
 - ## q&a
 	- `17.10`
 	- `20.10`
 	- > We will be holding two Q&A session on Zoom to solve doubts and further questions on [October 17th at 11:00 CET](https://eu01web.zoom.us/j/61377466649?pwd=VkpCZkM5dWlneXdRSWI5TTZiRHJqZz09) and on [October 20th at 19:00 CET](https://eu01web.zoom.us/j/66881624854?pwd=MDA4ZkhiQzlvL0JMVUFpZ29NNWZwdz09).
--
+- ## topics
+	- > What we are planning to report on: 
+	  >
+	  >* Algorithms ― based or not on AI ― used by financial institutions and other agents (banks, insurance companies, budget-tracking apps, loans and microcredit entities, ministerial departments and public administrations, etc.)
+	  >* The impact on specific groups of these automated systems, such as inhabitants of selected neighborhoods having credits denied or exiled people who cannot access public subsidies.
+	  >* Unpublished data used to implement, support and run the automated systems used by these institutions, i.e. databases, bibliography used in the design of the system, internal or independent audits, false positive and negative rates, etc.
+	  >* Ideally, human-centered stories and interviews that include people affected by the use of these programs and their consequences.
+	  >* Current situation or updates on the regulation that affects such systems and their use upon the general population.
 - ## questions
 	- What would you contribute to a research on automated discrimination by financial institutions in Europe?
+		- > For example: Gather data on insurance premiums to analyze how they vary for subgroups in a specific country, ask specific people to request their personal data under Art. 15 GDPR and check for patterns, interview industry insiders about their practices, talk to people who’ve had their credit turned down… If you’re unsure about your idea, do send us an e-mail at kayser-bril@algorithmwatch.org.
+		- I would like to interview industry insiders, specifically tech people hired by public institutions to either implement data sciences or in-house data analysts and data scientists contributing automation and generalization of algorithms.
+		- I would also like to work with good willing citizens helping less tech savy people to perform administrative tasks. There is also the new public work force dedicated to this effort.
+		- My general aim is to describe the widening digital gap induced by the French technocracy.
+		- Modernization
+		- Automation
+		- Computerization
+		- Computer-aided technology
+		- Smartphone
+		- Knowledge
 	- What would be your research plan and intermediate steps?
 	- What would you need from other fellows?
 	- Would you need an extra budget to carry out your research? Please list each item of expenditure and its cost.
