@@ -1,7 +1,10 @@
-- What would you contribute to a research on automated discrimination by financial institutions in Europe?
-- What would be your research plan and intermediate steps?
-- What would you need from other fellows?
-- Would you need an extra budget to carry out your research? Please list each item of expenditure and its cost.
+- https://umfrage.algorithmwatch.org/third-reporting-fellowship/
+-
+- ## questions
+	- What would you contribute to a research on automated discrimination by financial institutions in Europe?
+	- What would be your research plan and intermediate steps?
+	- What would you need from other fellows?
+	- Would you need an extra budget to carry out your research? Please list each item of expenditure and its cost.
 -
 - https://github.com/taniki/assemblee-nationale
 - https://observablehq.com/@taniki/regionales2021-sondages-ecarts?collection=%40taniki%2Felections-regionales-france-2021
