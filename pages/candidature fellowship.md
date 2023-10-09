@@ -24,9 +24,11 @@
 		- Modernization
 		- Automation
 		- Computerization
+			- risks for whom
 		- Computer-aided technology
 		- Smartphone
 		- Knowledge
+		- Platform capitalism
 	- What would be your research plan and intermediate steps?
 	- What would you need from other fellows?
 	- Would you need an extra budget to carry out your research? Please list each item of expenditure and its cost.
