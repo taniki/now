@@ -1,6 +1,7 @@
 - https://umfrage.algorithmwatch.org/third-reporting-fellowship/
 -
-- deadline : `12.11.2023`
+- ## deadline
+	- `12.11.2023`
 	- > The deadline to apply is Sunday, 12 November 23:59 CET (find below the application form).
 -
 - ## q&a
