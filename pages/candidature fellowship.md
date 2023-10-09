@@ -28,7 +28,7 @@
 				- charge de travail administrative n'est pas la même.
 				- inégalités et discrimination. question de pouvoir et de domination.
 				- mes aides vs entreprises prédatrices. législation et protection des citoyens.
-					- utilité pour l'ad
+					- utilité pour l'administration https://leximpact.an.fr/
 				- parcoursup et services privés de préparation
 			- I would also like to work with good willing citizens helping less tech savy people to perform administrative tasks. There is also the new public work force dedicated to this effort.
 			- My general aim is to describe the widening digital gap induced by the French technocracy.
@@ -53,6 +53,7 @@
 		- ### draft
 			- états des lieux sur la législation européenne concernant la protection des citoyens, la justice sociale et les initiatives de réduction du digital gap
 			- comparaison avec d'autres pays sur les structures de pouvoir et les intérêts particulier à l'informatisation
+			- écriture journalistique et stor
 	- Would you need an extra budget to carry out your research? Please list each item of expenditure and its cost.
 -
 - https://github.com/taniki/assemblee-nationale
