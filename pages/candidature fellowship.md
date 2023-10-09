@@ -23,6 +23,9 @@
 				- il y a deux sociologies
 					- celles des travailleurs de la technique qui construisent les systèmes d'informatisation et d'automatisation des démarches administratives. dépôt et prise de décision
 					- et celle des administrés et des personnes à qui s'adressent les démarches
+				- le sujet du fellowship est le risque de discriminations introduit par l'informatisation et l'automatisation des démarches fiscales. On peut aussi parler des demandes d'aide.
+				- aides aux entreprises concernent à la fois des grosses entreprises que des auto-entrepreneurs.
+				- charge de travail administrative n'est pas la m
 			- I would also like to work with good willing citizens helping less tech savy people to perform administrative tasks. There is also the new public work force dedicated to this effort.
 			- My general aim is to describe the widening digital gap induced by the French technocracy.
 			- Modernization
