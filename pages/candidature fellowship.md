@@ -28,6 +28,7 @@
 				- charge de travail administrative n'est pas la même.
 				- inégalités et discrimination. question de pouvoir et de domination.
 				- mes aides vs entreprises prédatrices. législation et protection des citoyens.
+					- utilité pour l'ad
 				- parcoursup et services privés de préparation
 			- I would also like to work with good willing citizens helping less tech savy people to perform administrative tasks. There is also the new public work force dedicated to this effort.
 			- My general aim is to describe the widening digital gap induced by the French technocracy.
@@ -41,6 +42,10 @@
 			- Smartphone
 			- Knowledge
 			- Platform capitalism
+			- transparence
+				- https://publi.codes/
+				- quels sont les publics ?
+				- ancrages institutionnels ? décalage stratégique ? portage politique ?
 	- What would be your research plan and intermediate steps?
 		- ### draft
 	- What would you need from other fellows?
