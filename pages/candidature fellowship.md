@@ -20,6 +20,9 @@
 		- > For example: Gather data on insurance premiums to analyze how they vary for subgroups in a specific country, ask specific people to request their personal data under Art. 15 GDPR and check for patterns, interview industry insiders about their practices, talk to people who’ve had their credit turned down… If you’re unsure about your idea, do send us an e-mail at kayser-bril@algorithmwatch.org.
 		- ### draft
 			- I would like to interview industry insiders, specifically tech people hired by public institutions to either implement data sciences or in-house data analysts and data scientists contributing automation and generalization of algorithms.
+				- il y a deux sociologies
+					- celles des travailleurs de la technique qui construisent les systèmes d'informatisation et d'automatisation des démarches administratives. dépôt et prise de décision
+					- et celle des administrés et des personnes à qui s'adressent les démarches
 			- I would also like to work with good willing citizens helping less tech savy people to perform administrative tasks. There is also the new public work force dedicated to this effort.
 			- My general aim is to describe the widening digital gap induced by the French technocracy.
 			- Modernization
@@ -27,7 +30,7 @@
 			- Computerization
 				- risks for whom
 				- why is it a thing
-				- power and e
+				- power and elites
 			- Computer-aided technology
 			- Smartphone
 			- Knowledge
