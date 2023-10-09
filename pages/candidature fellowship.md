@@ -26,6 +26,8 @@
 			- Automation
 			- Computerization
 				- risks for whom
+				- why is it a thing
+				- power and e
 			- Computer-aided technology
 			- Smartphone
 			- Knowledge
