@@ -40,6 +40,6 @@
 	- Would you need an extra budget to carry out your research? Please list each item of expenditure and its cost.
 -
 - https://github.com/taniki/assemblee-nationale
+	- DONE ajouter un `readme`
 - https://observablehq.com/@taniki/regionales2021-sondages-ecarts?collection=%40taniki%2Felections-regionales-france-2021
--
--
+	- NOW vérifier que c'est compréhensible à première vue
