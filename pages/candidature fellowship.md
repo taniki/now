@@ -1,7 +1,12 @@
 - https://umfrage.algorithmwatch.org/third-reporting-fellowship/
 -
-- Deadline : `12.11.2023`
+- deadline : `12.11.2023`
 	- > The deadline to apply is Sunday, 12 November 23:59 CET (find below the application form).
+-
+- ## q&a
+	- `17.10`
+	- `20.10`
+	- > We will be holding two Q&A session on Zoom to solve doubts and further questions on [October 17th at 11:00 CET](https://eu01web.zoom.us/j/61377466649?pwd=VkpCZkM5dWlneXdRSWI5TTZiRHJqZz09) and on [October 20th at 19:00 CET](https://eu01web.zoom.us/j/66881624854?pwd=MDA4ZkhiQzlvL0JMVUFpZ29NNWZwdz09).
 -
 - ## questions
 	- What would you contribute to a research on automated discrimination by financial institutions in Europe?
