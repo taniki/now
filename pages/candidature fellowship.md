@@ -21,7 +21,9 @@
 		- ### draft
 			- évaluer les coûts de réparation de l'automatisation des décisions administratives concernant les aides sociales
 				- réalité du droit à l'erreur
-				- contacter et interviewer les associations et entreprises sociales gravitant autour de la solidarité et de l'inclusion numérique
+					- parcours de réparation
+					- conséquences sur quelles populations ?
+				- contacter et interviewer les associations et entreprises sociales gravitant autour de la solidarité et de l'inclusion numérique pour documenter la mise en périphérie de l'accompagnement au profit d'un discours sur l'innovation et la technocratie
 				- contacter et interviewer des experts sur le non-recours pour construire une histoire autour de la non-automatisation complète du versement des prestations sociales
 			- I would like to interview industry insiders, specifically tech people hired by public institutions to either implement data sciences or in-house data analysts and data scientists contributing automation and generalization of algorithms.
 				- il y a deux sociologies
