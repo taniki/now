@@ -24,9 +24,11 @@
 					- parcours de réparation
 					- Est-ce que c'est égalitaire ?
 				- faire une enquête de terrain sur les "maisons France Services"
+					- analyser les données. par exemple la géographie
 				- contacter et interviewer les associations et entreprises sociales gravitant autour de la solidarité et de l'inclusion numérique pour documenter la mise en périphérie de l'accompagnement au profit d'un discours sur l'innovation et la technocratie
 				- contacter et interviewer des experts sur le non-recours pour construire une histoire autour de la non-automatisation complète du versement des prestations sociales
 				- enquêter sur les entreprises prédatrices profitant du manque d'accessibilité des démarches administratives
+				-
 			- I would like to interview industry insiders, specifically tech people hired by public institutions to either implement data sciences or in-house data analysts and data scientists contributing automation and generalization of algorithms.
 				- il y a deux sociologies
 					- celles des travailleurs de la technique qui construisent les systèmes d'informatisation et d'automatisation des démarches administratives. dépôt et prise de décision
