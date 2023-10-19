@@ -19,6 +19,10 @@
 	- What would you contribute to a research on automated discrimination by financial institutions in Europe?
 		- > For example: Gather data on insurance premiums to analyze how they vary for subgroups in a specific country, ask specific people to request their personal data under Art. 15 GDPR and check for patterns, interview industry insiders about their practices, talk to people who’ve had their credit turned down… If you’re unsure about your idea, do send us an e-mail at kayser-bril@algorithmwatch.org.
 		- ### draft
+			- évaluer les coûts de réparation de l'automatisation des décisions administratives concernant les aides sociales
+				- réalité du droit à l'erreur
+				- contacter et interviewer les associations et entreprises sociales gravitant autour de la solidarité et de l'inclusion numérique
+				- contacter et interviewer des experts sur le non-recours pour construire une histoire autour de la non-automatisation complète du versement des prestations sociales
 			- I would like to interview industry insiders, specifically tech people hired by public institutions to either implement data sciences or in-house data analysts and data scientists contributing automation and generalization of algorithms.
 				- il y a deux sociologies
 					- celles des travailleurs de la technique qui construisent les systèmes d'informatisation et d'automatisation des démarches administratives. dépôt et prise de décision
@@ -57,7 +61,7 @@
 	- Would you need an extra budget to carry out your research? Please list each item of expenditure and its cost.
 -
 - https://github.com/taniki/assemblee-nationale
-	-
+	- https://data.11d.im/foodcourt/votes-an/pca-deputes
 	- DONE ajouter un `readme`
 - https://observablehq.com/@taniki/regionales2021-sondages-ecarts?collection=%40taniki%2Felections-regionales-france-2021
 	- DONE vérifier que c'est compréhensible à première vue
