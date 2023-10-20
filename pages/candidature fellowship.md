@@ -4,6 +4,8 @@
 		- > I am willing to investigate on causes and consequences of errors within automated decision process.
 		  First there is the relation between the labelling of usability and digital litteracy issues as "errors" or "mistakes" and marginalized and discriminated subpopulations. There is a right to mistake, "droit à l'erreur", in the French legislation but its implementation are far from being generous or even effecient. The intention of this law is to restore trust and confidence between citizens and public institutions, mainly financial and social ones.
 		  Second there is the wide range of errors in automated decisions that can be caused by software issues, dirty datasets or misinterpretation of user inputs. How are these errors are handled and by whom? Who is penalized or suffers from financial pressure by those errors?
+		  > I would like to link the two levels and write stories on the fundamental contradiction between "droit à l'erreur" and underlooked surveillance apparatus deployed by social scoring algorithms.
+		  > There is also a strong momentum as this kind of thinking is popular among technocratic elites.
 		  > 
 		  > I will also be happy to provide strong support with data analysis/science with fairness evaluation or understanding of source code.
 	- reporting plan
