@@ -1,5 +1,12 @@
 - https://umfrage.algorithmwatch.org/third-reporting-fellowship/
--
+- candidature finale
+	- contribution
+		- > I am willing to investigate on causes and consequences of errors within automated decision process.
+		  First there is the relation between the labelling of usability and digital litteracy issues as "errors" or "mistakes" and marginalized and discriminated subpopulations. There is a right to mistake, "droit à l'erreur", in the French legislation but its implementation are far from being generous or even effecient. The intention of this law is to restore trust and confidence between citizens and public institutions, mainly financial and social ones.
+		  Second there is the wide range of errors in automated decisions that can be caused by software issues, dirty datasets or misinterpretation of user inputs. How are these errors are handled and by whom? Who is penalized or suffers from financial pressure by those errors?
+		  > 
+		  > I will also be happy to provide strong support with data analysis/science with fairness evaluation or understanding of source code.
+	- reporting plan
 - ## deadline
 	- `12.11.2023`
 	- > The deadline to apply is Sunday, 12 November 23:59 CET (find below the application form).
@@ -21,6 +28,7 @@
 		- ### draft
 			- documenter les erreurs d'automatisation des décisions administratives concernant les aides sociales sur le quotidien des bénéficiaires
 				- réalité du droit à l'erreur
+					- Qu'est-ce qui se passe quand un algorithme se trompe ?
 					- parcours de réparation
 					- Est-ce que c'est égalitaire ?
 				- faire une enquête de terrain sur les "maisons France Services"
@@ -58,6 +66,8 @@
 				- ancrages institutionnels ? décalage stratégique ? portage politique ?
 			- https://www.pimmsmediation.fr/
 			- https://www.economie.gouv.fr/particuliers/france-services
+			- https://changerdecap.net/petition-caf/
+			- https://nosservicespublics.fr/
 	- What would be your research plan and intermediate steps?
 		- ### draft
 	- What would you need from other fellows?
