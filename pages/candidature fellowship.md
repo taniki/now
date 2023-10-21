@@ -1,16 +1,38 @@
 - https://umfrage.algorithmwatch.org/third-reporting-fellowship/
-- candidature finale
-	- contribution
-		- {{renderer :wordcountchar_}}
-			- I am willing to investigate on social scoring in french social security institutions. I want to focus on errors of algoritms both as results and as inputs. My main intuition is that the right to errors is not compatible with surveillance and machine learning.
-		- > I am willing to investigate on causes and consequences of errors within automated decision process in Caisse Nationale des Assurances Familliales, the French public administration whose task is to .
-		  First there is the relation between the labelling of usability and digital litteracy issues as "errors" or "mistakes" and marginalized and discriminated subpopulations. There is a right to mistake, "droit à l'erreur", in the French legislation but its implementation are far from being generous or even effecient. The intention of this law is to restore trust and confidence between citizens and public institutions, mainly financial and social ones.
-		  Second there is the wide range of errors in automated decisions that can be caused by software issues, dirty datasets or misinterpretation of user inputs. How are these errors are handled and by whom? Who is penalized or suffers from financial pressure by those errors?
-		  > I would like to link the two levels and write stories on the fundamental contradiction between "droit à l'erreur" and underlooked surveillance apparatus deployed by social scoring algorithms.
-		  > There is currently also a strong momentum as this kind of thinking is popular among technocratic elites.
-		  > 
-		  > I will also be happy to provide strong support with data analysis/science with fairness evaluation or understanding of source code.
-	- reporting plan
+	- submitted proposal
+		- contribution {{renderer :wordcountchar_}}
+			- I am willing to work on failures of automated decisions systems with a focus on social scoring implementations. Methods will be :
+				- retro-engineering of machine learning and statistical inference piece of software. specifically, looking forward the technical and sociological management of missing or erronous data
+				- observations and interviews with public agents using outputs of scoring systems
+				- field interviews of citizens having suffered from effects of errors of classification, false positive detection, or automated allocation
+				- field interviews of civil society actors trying to prevent misallocation or to bridge the digital gap leading to usability problems with the administration
+				- analysis of socio-economical data related to activities of public administrations
+				- field interviews of civil society actors promoting a critical refundation of technological interfaces between public administrations and citizens
+				- scrapping and transforming data from websites and official public datasets to produce visualizations and insights
+			- reporting plan {{renderer :wordcountchar_}}
+				- write a report about existing and reported failures of automated decisions and their impact on people already in situations of poverty. broaden the perspective to other european countries. idea is that control is inducing a shift from social security to social insecurity
+				- meet following orgs
+					- Changer de cap
+					- La Quadrature du Net
+					- Nos services publics
+					- La MedNum
+					- Défenseur des Droits
+					- CNIL
+					- CADA
+				- write a report about a typology of failures of automated decision systems
+				- develop a network of sources within public organizations
+				- scrap data about Maisons France Services
+				- write a report about the cognitive dissonance between the surveillance background of social scoring and a basic concept of trust between public institutions and citizens
+				- write a report about a long term history of computerization, political elites and the ambivalence of technology as a mean to improve quality of relationship between citizen and welfare state
+	- {{renderer :wordcountchar_}}
+		- I am willing to investigate on social scoring in french social security institutions. I want to focus on errors of algoritms both as results and as inputs. My main intuition is that the right to errors is not compatible with surveillance and machine learning.
+	- > I am willing to investigate on causes and consequences of errors within automated decision process in Caisse Nationale des Assurances Familliales, the French public administration whose task is to .
+	  First there is the relation between the labelling of usability and digital litteracy issues as "errors" or "mistakes" and marginalized and discriminated subpopulations. There is a right to mistake, "droit à l'erreur", in the French legislation but its implementation are far from being generous or even effecient. The intention of this law is to restore trust and confidence between citizens and public institutions, mainly financial and social ones.
+	  Second there is the wide range of errors in automated decisions that can be caused by software issues, dirty datasets or misinterpretation of user inputs. How are these errors are handled and by whom? Who is penalized or suffers from financial pressure by those errors?
+	  > I would like to link the two levels and write stories on the fundamental contradiction between "droit à l'erreur" and underlooked surveillance apparatus deployed by social scoring algorithms.
+	  > There is currently also a strong momentum as this kind of thinking is popular among technocratic elites.
+	  > 
+	  > I will also be happy to provide strong support with data analysis/science with fairness evaluation or understanding of source code.
 - ## deadline
 	- `12.11.2023`
 	- > The deadline to apply is Sunday, 12 November 23:59 CET (find below the application form).
