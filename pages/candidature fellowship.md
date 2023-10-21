@@ -26,9 +26,11 @@
 			- write a report about the cognitive dissonance between the surveillance background of social scoring and a basic concept of trust between public institutions and citizens
 			- write a report about a long-term history of computerization, political elites and the ambivalence of technology as a mean to improve quality of relationship between citizen and welfare state
 		- looking for {{renderer :wordcountchar_}}
-			- expert look on reporting and writing. I think I know how to write but I might sometimes have a militant point of view that won't satisfy basic journalist reporting standard
-			- knowledge on local variants of EC legislation. Like implementations of GDPR, right to document access, etc
-			- existing public datasets in other EC countries
+			- I am looking for help regarding
+				- expert look on reporting and writing. I think I know how to write but I might sometimes have a militant point of view that won't satisfy basic journalist reporting standard
+				- translate ethnographical methodologies from social sciences into a journalistic framework
+				- knowledge on local variants of EC legislation. Like implementations of GDPR, right to document access, etc
+				- existing public datasets in other EC countries
 	-
 	- {{renderer :wordcountchar_}}
 		- I am willing to investigate on social scoring in french social security institutions. I want to focus on errors of algoritms both as results and as inputs. My main intuition is that the right to errors is not compatible with surveillance and machine learning.
