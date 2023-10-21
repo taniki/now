@@ -6,10 +6,10 @@
 				- retro-engineering of machine learning and statistical inference pieces of software. Looking forward to the management of missing or erroneous data
 				- interviews with public agents using outputs of scoring systems
 				- interviews with public agents involved in social scoring projects
-				- field interviews of citizens having suffered from the effects of errors of classification, false positive detection, or automated allocation
-				- field interviews of civil society actors trying to prevent misallocation or to bridge the digital gap leading to usability problems with the administration
+				- interviews of citizens having suffered from the effects of errors of classification, false positive detection, or automated allocation
+				- interviews of civil society actors trying to prevent misallocation or to bridge the digital gap leading to usability problems with the administration
 				- analysis of socio-economic data related to the activities of public administrations
-				- field interviews of civil society actors promoting a critical rethinking of technological interfaces between public administrations and citizens
+				- interviews of civil society actors promoting a critical rethinking of usages of technology by public administrations
 				- scrapping and transforming data from websites and official public datasets to produce visualizations and insights
 		- reporting plan {{renderer :wordcountchar_}}
 			- write a report about existing and reported failures of automated decisions and their impact on people already in situations of poverty. Broaden the perspective to other European countries. idea is that control is inducing a shift from social security to social insecurity
