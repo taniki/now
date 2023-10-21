@@ -12,6 +12,7 @@
 				- interviews of civil society actors promoting a critical rethinking of usages of technology by public administrations
 				- scrapping and transforming data from websites and official public datasets to produce visualizations and insights
 		- reporting plan {{renderer :wordcountchar_}}
+			- write an explanatory report about social scoring and existing use cases in Europe
 			- write a report about existing and reported failures of automated decisions and their impact on people already in situations of poverty. Broaden the perspective to other European countries. idea is that control is inducing a shift from social security to social insecurity
 			- meet following orgs
 				- Changer de cap
