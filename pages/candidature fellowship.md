@@ -1,16 +1,16 @@
 - https://umfrage.algorithmwatch.org/third-reporting-fellowship/
 	- submitted proposal
 	  collapsed:: true
-		- contribution {{renderer(:wordcountchar_)}}
+		- contribution {{renderer :wordcountchar_}}
 			- I am willing to work on failures of automated decisions systems with a focus on social scoring implementations. Methods will be
-				- retro-engineering of machine learning and statistical inference piece of software. specifically, looking forward to the technical and sociological management of missing or erroneous data
+				- retro-engineering of machine learning and statistical inference pieces of software. Looking forward to the management of missing or erroneous data
 				- observations and interviews with public agents using outputs of scoring systems
 				- field interviews of citizens having suffered from the effects of errors of classification, false positive detection, or automated allocation
 				- field interviews of civil society actors trying to prevent misallocation or to bridge the digital gap leading to usability problems with the administration
 				- analysis of socio-economic data related to the activities of public administrations
 				- field interviews of civil society actors promoting a critical rethinking of technological interfaces between public administrations and citizens
 				- scrapping and transforming data from websites and official public datasets to produce visualizations and insights
-		- reporting plan {{renderer(:wordcountchar_)}}
+		- reporting plan {{renderer :wordcountchar_}}
 			- write a report about existing and reported failures of automated decisions and their impact on people already in situations of poverty. Broaden the perspective to other European countries. idea is that control is inducing a shift from social security to social insecurity
 			- meet following orgs
 				- Changer de cap
@@ -25,9 +25,11 @@
 			- scrap data about Maisons France Services
 			- write a report about the cognitive dissonance between the surveillance background of social scoring and a basic concept of trust between public institutions and citizens
 			- write a report about a long-term history of computerization, political elites and the ambivalence of technology as a mean to improve quality of relationship between citizen and welfare state
-		- looking for {{renderer(:wordcountchar_)}}
+		- looking for {{renderer :wordcountchar_}}
 			- expert look on reporting and writing. I think I know how to write but I might sometimes have a militant point of view that won't satisfy basic journalist reporting standard
-			- knowledge on local variants of EC legislation. Like implementations of GDPR, right to document access, etc.
+			- knowledge on local variants of EC legislation. Like implementations of GDPR, right to document access, etc
+			- existing public datasets in other EC countries
+	-
 	- {{renderer :wordcountchar_}}
 		- I am willing to investigate on social scoring in french social security institutions. I want to focus on errors of algoritms both as results and as inputs. My main intuition is that the right to errors is not compatible with surveillance and machine learning.
 	- > I am willing to investigate on causes and consequences of errors within automated decision process in Caisse Nationale des Assurances Familliales, the French public administration whose task is to .
