@@ -1,6 +1,5 @@
 - https://umfrage.algorithmwatch.org/third-reporting-fellowship/
 	- submitted proposal
-	  collapsed:: true
 		- contribution {{renderer :wordcountchar_}}
 			- I am willing to work on failures of automated decisions systems with a focus on social scoring implementations. Methods will be
 				- retro-engineering of machine learning and statistical inference pieces of software. Looking forward to the management of missing or erroneous data
@@ -62,6 +61,7 @@
 	- What would you contribute to a research on automated discrimination by financial institutions in Europe?
 		- > For example: Gather data on insurance premiums to analyze how they vary for subgroups in a specific country, ask specific people to request their personal data under Art. 15 GDPR and check for patterns, interview industry insiders about their practices, talk to people who’ve had their credit turned down… If you’re unsure about your idea, do send us an e-mail at kayser-bril@algorithmwatch.org.
 		- ### draft
+		  collapsed:: true
 			- documenter les erreurs d'automatisation des décisions administratives concernant les aides sociales sur le quotidien des bénéficiaires
 				- réalité du droit à l'erreur
 					- Qu'est-ce qui se passe quand un algorithme se trompe ?
@@ -109,6 +109,7 @@
 	- What would you need from other fellows?
 		- > For example: I’m planning to do a statistical analysis on credit scores; I’d need another fellow to interview people on the ground to verify my findings.
 		- ### draft
+		  collapsed:: true
 			- états des lieux sur la législation européenne concernant la protection des citoyens, la justice sociale et les initiatives de réduction du digital gap
 			- comparaison avec d'autres pays sur les structures de pouvoir et les intérêts particulier à l'informatisation
 			- écriture journalistique et storytelling
