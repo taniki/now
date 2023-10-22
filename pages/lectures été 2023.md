@@ -1,23 +1,25 @@
 - #livres
 - ## backlog existant
-	- bouts de bois
-	- terra humanis
+	- DONE bouts de bois
+	- DONE terra humanis
 	- des cultures aux pratiques informationnelles
 	- dans le labyrinthe
 	- le cycle du midi
-	- habiter en oiseau
+	- DONE habiter en oiseau
 		- [[vinciane despret]]
 	- ton absence n'est que ténèbres
 		- [[Jón Kalman Stefánsson]]
 		  id:: 64bce9c4-0746-4016-a5ad-16b2687cbf00
 	- la presse, le pouvoir et l'argent
-	- [[Shaping Technology]]
+	- DONE [[Shaping Technology]]
 -
 - ## would be nice
 	- culture series
 		- [[Iain M. Banks]]
 		- https://en.wikipedia.org/wiki/Culture_series
 		- 10 livres
+		- DONE Use of Weapons
+		- DONE Consider Phlebas
 -
 - ## lus
 	-
