@@ -30,7 +30,7 @@
 		- looking for {{renderer :wordcountchar_}}
 			- I am looking for help regarding
 				- expert look on reporting and writing. I think I know how to write but I might sometimes have a militant point of view that won't satisfy basic journalist reporting standard
-				- translate ethnographical methodologies from social sciences into a journalistic framework. pretty sure, you don't report an interview for a sociology article and news article
+				- translate ethnographical methodologies from social sciences into a journalistic framework. pretty sure, there is major differences between sociology interviews and investigation interviews.
 				- knowledge on local variants of EC legislation. Like implementations of GDPR, right to document access, etc
 				- existing public datasets in other EC countries
 	-
