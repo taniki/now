@@ -3,12 +3,12 @@
 		- contribution {{renderer :wordcountchar_}}
 			- I am willing to work on failures of automated decisions systems with a focus on social scoring implementations. Methods will be
 				- retro-engineering of machine learning and statistical inference pieces of software. Looking forward to the management of missing or erroneous data
-				- interviews with public agents using outputs of scoring systems
-				- interviews with public agents involved in social scoring projects
+				- interviews with public agents using outputs of scoring systems or involved in social scoring projects
 				- interviews of citizens having suffered from the effects of errors of classification, false positive detection, or automated allocation
 				- interviews of civil society actors trying to prevent misallocation or to bridge the digital gap leading to usability problems with the administration
 				- analysis of socio-economic data related to the activities of public administrations
 				- interviews of civil society actors promoting a critical rethinking of usages of technology by public administrations
+				- producing interactive infographics
 				- scrapping and transforming data from websites and official public datasets to produce visualizations and insights
 		- reporting plan {{renderer :wordcountchar_}}
 			- write an explanatory report about social scoring and existing use cases in Europe
@@ -29,6 +29,7 @@
 		- looking for {{renderer :wordcountchar_}}
 			- I am looking for help regarding
 				- expert look on reporting and writing. I think I know how to write but I might sometimes have a militant point of view that won't satisfy basic journalist reporting standard
+				- knowldege about power elite structures from other EC countries
 				- translate ethnographical methodologies from social sciences into a journalistic framework. pretty sure, there is major differences between sociology interviews and investigation interviews.
 				- knowledge on local variants of EC legislation. Like implementations of GDPR, right to document access, etc
 				- existing public datasets in other EC countries
