@@ -1,0 +1,19 @@
+- ## principes
+	- Ne pas être complétement dépendant d'un ordinateur pour la pratique de l'analyse de données
+	- Utiliser l'informatique avec parcimonie quand c'est nécessaire
+	- Prendre le temps de faire reposer la réflexion sur des outils mathématiques permet une meilleure communication et une sécurité au delà des erreurs d'implémentation
+	- Meilleure compréhension
+	- Possibilité de raccourci grace aux mathématiques
+	- *Problem solving* au delà du code
+	-
+- ## mathématiques
+	- propabilités
+		- geometric probability
+			- https://en.wikipedia.org/wiki/Geometric_probability
+			- https://archive.org/details/GeometricProbability/mode/2up
+			- https://brilliant.org/wiki/1-dimensional-geometric-probability/
+		- generating function
+			- https://en.wikipedia.org/wiki/Generating_function
+	- statistiques
+		- test d'hypothèse
+-

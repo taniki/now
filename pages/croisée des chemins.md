@@ -19,11 +19,13 @@ icon:: 🧭
 		- [[écologie]]
 		- [écriture]([[écrire]])
 	- problématiques
+		- [[découpler analyse de données et informatique]]
 		- [[observer la marche du monde pour en rendre compte]]
 		- [[m'organiser]]
 		- [[sortir des grandes plateformes]]
-	- [[publications]]
-	- [[hobbies]]
+-
+- [[publications]]
+- [[hobbies]]
 -
 - inventaires
 	- [[système opératoire]]
