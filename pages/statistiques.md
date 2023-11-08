@@ -1,3 +1,5 @@
+- [[mathématiques]]
 - inférence causale
+-
 - ## Livres
 	- [[Mostly Harmless Econometrics]]
