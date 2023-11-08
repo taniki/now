@@ -1,3 +1,5 @@
+- [[analyse de données]]
+-
 - ## principes
 	- Ne pas être complétement dépendant d'un ordinateur pour la pratique de l'analyse de données
 	- Utiliser l'informatique avec parcimonie quand c'est nécessaire
@@ -5,5 +7,4 @@
 	- Meilleure compréhension des concepts et des moments de calcul
 	- Possibilité de raccourci grace aux mathématiques
 	- *Problem solving* au delà du code
-	-
 -
