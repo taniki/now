@@ -20,6 +20,7 @@
 	- Bayes #card
 	-
 - ## statistiques
+  id:: 079ec455-406a-4efe-a716-25cda57608d8
 	- méthodologie de test d'hypothèse
 		- Pearson $\chi^2$ #card
 			- données catégoriques
@@ -37,6 +38,12 @@
 					- valeur-p/p-value
 		- Student t-test #card
 		- AB test #card
+			- $$
+			  H_0 : P(A = B) \\
+			  H_1 : P(A \neq B)
+			  $$
+			-
+			-
 		- degré de liberté #card
 			- df
 			- $\nu$
@@ -48,3 +55,14 @@
 			- $$f(x) = \frac1{\sigma \sqrt{2\pi}}\operatorname e^{-\frac12\left(\frac{x-\mu}{\sigma}\right)^2}$$
 			- $$X\sim\mathcal N(\mu,\sigma^2)$$
 			-
+		- régression linéaire #card
+			- best-fit line
+				- $$ y = mx + c$$
+				- intercept
+					- $$
+					  c = \bar{y} - m\bar{x}
+					  $$
+				- slope
+					- $$
+					  m = \frac{\sum_{i=1}^n (y_i - \bar{y})(x_i - \bar{x})}{\sum_{i=1}^n (x_i - \bar{x})}
+					  $$
