@@ -1,7 +1,7 @@
 - [[mathématiques]]
 - inférence causale
 -
-- ## méthodologie de test d'hypothèse
+- ## notions
 	- Pearson $\chi^2$ #card
 		- données catégoriques
 		- $N$ observations
@@ -50,6 +50,10 @@
 		- F
 		- MMSE
 		- MMST
+		-
+		- ressources
+			- {{video https://www.youtube.com/watch?v=NF5_btOaCig}}
+		-
 -
 - ## ressources
 	- ### Livres
