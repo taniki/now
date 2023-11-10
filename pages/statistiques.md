@@ -51,5 +51,9 @@
 		- MMSE
 		- MMST
 -
-- ## Livres
-	- [[Mostly Harmless Econometrics]]
+- ## ressources
+	- ### Livres
+		- [[Mostly Harmless Econometrics]]
+	- ### sites
+		- https://statquest.org/
+		- Kahn academy
