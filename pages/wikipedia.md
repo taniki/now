@@ -1,0 +1,3 @@
+- présence
+	- en : [`taniki`](https://en.wikipedia.org/wiki/User:Taniki)
+	- fr : [`nicky`](https://fr.wikipedia.org/wiki/Utilisateur:Nicky)
