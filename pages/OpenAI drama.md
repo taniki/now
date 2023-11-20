@@ -1,0 +1,39 @@
+- dates
+	- début : 17 novembre 2023
+-
+- liens
+	- https://openai.com/blog/openai-announces-leadership-transition
+	- accusation de violences par Annie Altam
+		- https://www.themarysue.com/annie-altmans-abuse-allegations-against-openais-sam-altman-highlight-the-need-to-prioritize-humanity-over-tech/
+		- https://www.lesswrong.com/posts/QDczBduZorG4dxZiW/sam-altman-s-sister-annie-altman-claims-sam-has-severely
+		- https://news.ycombinator.com/item?id=38311509
+			- YC est un incubateur où Sam Altman a officié comme CEO
+			- le lien vers l'article sur LessWrong a été "flagged"
+				- les commentaires abondent dans le sens de l'article de LW et soupconnent une forme de shadowban de connivence
+	- "créateur de ChatGPT"
+		- https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt
+	- Mira Murati
+		- https://www.wired.com/story/openai-new-ceo-who-is-mira-murati/
+		- signataire de la letter ouverte des employés
+	- Ilya Sutskever
+		- {{video https://www.youtube.com/watch?v=9iqn1HhFJ6c}}
+			- vidéo avec une belle prod sur le chief scientist officer qui donne la part belle au discours mainstream de l'AI Alignement
+		- https://arstechnica.com/information-technology/2023/11/report-sutskever-led-board-coup-at-openai-that-ousted-altman-over-ai-safety-concerns/
+			- > Rumors have already begun swirling about potential internal 
+			  breakthroughs at OpenAI that may have intensified the slow/fast rift within the company, owing to Sutskever's role as co-lead of a "[Superalignment](https://openai.com/blog/introducing-superalignment)" team that is tasked with figuring out how to control hypothetical superintelligent AI.
+		- https://arstechnica.com/information-technology/2023/11/openai-employees-revolt-after-board-names-new-ceo-and-altman-heads-to-microsoft/
+			- {{twitter https://twitter.com/ilyasut/status/1726590052392956028}}
+			- rétropédalage complet
+	- Emmet Shear
+		- dernier CEO par interim
+		- ancien fondateur de Twitch
+		- <iframe src="https://arvr.social/@mpesce/111441594414628873/embed" width="400" height="600" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+	- microsoft
+	- article de The Atlantic
+		- https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-chatgpt-chaos/676050/
+	- X/Twitter
+		- Une partie importante du drama s'est joué sur le réseau social d'Elon Musk malgré son naufrage en cours.
+		- Cela ne semble pas posé problème à grand monde alors que les annonces de marques, d'entreprises et d'institutions publiques quittant le navire occupent une partie de l'actualité.
+		- Thread où Altman fait un power move mielleux en direction des employés.
+		- Même Biden rejoint Threads
+			- https://www.axios.com/2023/11/20/white-house-biden-harris-threads-x-twitter-account
