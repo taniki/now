@@ -37,3 +37,6 @@
 		- Thread où Altman fait un power move mielleux en direction des employés.
 		- Même Biden rejoint Threads
 			- https://www.axios.com/2023/11/20/white-house-biden-harris-threads-x-twitter-account
+	- Meanwhile l'élite française
+		- https://www.lemonde.fr/pixels/article/2023/11/18/openai-l-ex-pdg-sam-altman-tout-juste-limoge-est-invite-en-france-par-le-ministre-delegue-charge-du-numerique_6201003_4408996.html
+		- {{twitter https://twitter.com/jnbarrot/status/1725818277543247993}}
