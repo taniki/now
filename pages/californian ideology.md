@@ -5,3 +5,8 @@
 	- C'est aussi un bon point d'entrée concernant sur le fond idéologique du libertarianisme. Après une forme de négociation entre New Left et New Right, il reste surtout un individualisme anti-étatique, un laisser-faire économique et dogmatique. Notamment la figure de Thomas Jefferson, décrit comme modèle idéologique de la cyberculture, à la fois auteur de déclaration d'indépendance et esclavagiste.
 	- Bref une jonction entre OpenAI et le nouveau président Argentin.
 	- https://social.apreslanu.it/@tk/111448613966011017
+-
+- https://en.wikipedia.org/wiki/The_Californian_Ideology
+-
+- ## related
+	- [[From Counterculture to Cyberculture]]

@@ -3,4 +3,4 @@ type: [[book]]
 ---
 
 - [[Fred Turner]]
-- idéologie californienne
+- idéologie californienne [[californian ideology]]
