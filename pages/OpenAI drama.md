@@ -31,6 +31,10 @@
 	- microsoft
 	- article de The Atlantic
 		- https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-chatgpt-chaos/676050/
+		- https://aleph.land/@mtriclot/111443103003752919
+		- https://mastodon.xyz/@Lucieronfaut/111442514011779283
+		- https://mastodon.social/@chromakode/111444172082514064
+		-
 	- X/Twitter
 		- Une partie importante du drama s'est joué sur le réseau social d'Elon Musk malgré son naufrage en cours.
 		- Cela ne semble pas posé problème à grand monde alors que les annonces de marques, d'entreprises et d'institutions publiques quittant le navire occupent une partie de l'actualité.
