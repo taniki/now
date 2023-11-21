@@ -1,0 +1,7 @@
+- http://www.imaginaryfutures.net/2007/04/17/the-californian-ideology-2/
+	- C'est un texte datant de 1995 qui prend comme point de départ l'émergence de l'hypermedia, ce qu'on appelle aujourd'hui internet et le web, pour revenir à ses racines idéologiques.
+	- Les deux auteurs reviennent en détail sur la tension culturelle et politique qui agitent les élites technologiques entre les années 70 et le début des années 90.
+	- C'est intéressant pour comprendre l'actualité d'OpenAI à travers les questions d'imaginaire de la technique et d'une volonté originelle de créer une distance générale entre une élite affranchie du travail et une *underclass* qui n'est pas concernée par l'avènement d'une nouvelle humanité.
+	- C'est aussi un bon point d'entrée concernant sur le fond idéologique du libertarianisme. Après une forme de négociation entre New Left et New Right, il reste surtout un individualisme anti-étatique, un laisser-faire économique et dogmatique. Notamment la figure de Thomas Jefferson, décrit comme modèle idéologique de la cyberculture, à la fois auteur de déclaration d'indépendance et esclavagiste.
+	- Bref une jonction entre OpenAI et le nouveau président Argentin.
+	- https://social.apreslanu.it/@tk/111448613966011017

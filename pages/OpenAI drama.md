@@ -44,3 +44,5 @@
 	- Meanwhile l'élite française
 		- https://www.lemonde.fr/pixels/article/2023/11/18/openai-l-ex-pdg-sam-altman-tout-juste-limoge-est-invite-en-france-par-le-ministre-delegue-charge-du-numerique_6201003_4408996.html
 		- {{twitter https://twitter.com/jnbarrot/status/1725818277543247993}}
+	- Le côté religieux et mystique d'OpenAI
+		- https://www.programmablemutter.com/p/look-at-scientology-to-understand
