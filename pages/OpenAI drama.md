@@ -1,7 +1,10 @@
 - dates
 	- début : 17 novembre 2023
 -
-- liens
+- ## articles
+	-
+-
+- ## veille
 	- https://openai.com/blog/openai-announces-leadership-transition
 	- accusation de violences par Annie Altam
 		- https://www.themarysue.com/annie-altmans-abuse-allegations-against-openais-sam-altman-highlight-the-need-to-prioritize-humanity-over-tech/
@@ -11,7 +14,7 @@
 			  id:: 655bdb89-99a5-4b37-868f-7fb9fc42918d
 			- le lien vers l'article sur [[LessWrong]] a été "flagged"
 				- les commentaires abondent dans le sens de l'article de LW et soupconnent une forme de shadowban de connivence
-	- "créateur de ChatGPT"
+	- "créateur de ChatGPT" selon [[The Verge]]
 		- https://www.theverge.com/23966325/openai-sam-altman-fired-turmoil-chatgpt
 	- [[Mira Murati]]
 		- https://www.wired.com/story/openai-new-ceo-who-is-mira-murati/
@@ -30,6 +33,10 @@
 		- ancien fondateur de [[Twitch]]
 		- <iframe src="https://arvr.social/@mpesce/111441594414628873/embed" width="400" height="600" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
 	- [[Microsoft]]
+		- Promesse d'embauche des tranfuges avec des compensations égales alors que dans d'autres contextes ils jouest l'austérité auprès de leurs employés
+		- Intégration directement dans Microsoft ou dans une boîte tierce qui fera de prestation ?
+		- Quid des équipes qui travaillent en interne sur l'éthique de l'IA
+			- [[Kate Crawford]]
 	- article de The Atlantic
 		- https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-chatgpt-chaos/676050/
 		- https://aleph.land/@mtriclot/111443103003752919
@@ -37,7 +44,7 @@
 		- https://mastodon.social/@chromakode/111444172082514064
 		-
 	- X/Twitter
-		- Une partie importante du drama s'est joué sur le réseau social d'Elon Musk malgré son naufrage en cours.
+		- Une partie importante du drama s'est joué sur le réseau social d' [[Elon Musk]] malgré son naufrage en cours.
 		- Cela ne semble pas posé problème à grand monde alors que les annonces de marques, d'entreprises et d'institutions publiques quittant le navire occupent une partie de l'actualité.
 		- Thread où Altman fait un power move mielleux en direction des employés.
 		- Même Biden rejoint Threads
@@ -45,6 +52,8 @@
 	- Meanwhile l'élite française
 		- https://www.lemonde.fr/pixels/article/2023/11/18/openai-l-ex-pdg-sam-altman-tout-juste-limoge-est-invite-en-france-par-le-ministre-delegue-charge-du-numerique_6201003_4408996.html
 		- {{twitter https://twitter.com/jnbarrot/status/1725818277543247993}}
-	- Le côté religieux et mystique d'OpenAI
+	- Le côté religieux et mystique d' [[openai]]
 		- https://www.programmablemutter.com/p/look-at-scientology-to-understand
 	- [[californian ideology]]
+	- Article de [[Vox]] offrant une bonne synthèse et problématisation
+		- https://www.vox.com/technology/2023/11/20/23969589/openai-sam-altman-fired-microsoft-chatgpt-emmett-shear-silicon-valley
