@@ -2,7 +2,8 @@
 	- début : 17 novembre 2023
 -
 - ## articles
-	-
+	- quelques clés de lecture pour comprendre le drama autour d'OpenAI {{renderer :wordcount_}}
+		-
 -
 - ## veille
 	- https://openai.com/blog/openai-announces-leadership-transition

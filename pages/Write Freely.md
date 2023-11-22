@@ -1,0 +1,12 @@
+- code source
+	- https://github.com/writefreely/writefreely
+- roadmap
+	- https://phabricator.write.as/tag/writefreely/
+-
+- write.as
+	- offre d'hébergement proposé par le créateur initial
+	- Pro
+		- `$9/m`
+	- Linux client
+		- `$25`
+		- https://code.as/writeas/writeas-gtk/src/tag/v1.0.1/USER_GUIDE.md
