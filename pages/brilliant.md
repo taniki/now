@@ -1,0 +1,13 @@
+- fini
+	- predicting with probability
+	- applied probability
+	- hypothesis testing
+	- vectors
+-
+- commencé
+	- solving equations
+	- calculus in a nutshell
+-
+- roadmap
+	- algorithms and data structures
+	- how LLMs work
