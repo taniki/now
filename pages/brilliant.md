@@ -11,3 +11,13 @@
 - roadmap
 	- algorithms and data structures
 	- how LLMs work
+	- algebra
+		- systems of equations
+		- functions and quadratics
+	- road to calculus
+		- pre-calculus
+		- calculus fundamentals
+		- integral calculus
+		- introduction to linear algebra
+		- linear algebra with applications
+		- differential equations
