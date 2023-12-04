@@ -7,10 +7,12 @@
 - commencé
 	- solving equations
 	- calculus in a nutshell
+	- statistics fundamentals
 -
 - roadmap
-	- algorithms and data structures
-	- how LLMs work
+	- computer science
+		- algorithms and data structures
+		- how LLMs work
 	- algebra
 		- systems of equations
 		- functions and quadratics
@@ -21,3 +23,5 @@
 		- introduction to linear algebra
 		- linear algebra with applications
 		- differential equations
+	- data
+		- random variables & distributions
