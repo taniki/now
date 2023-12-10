@@ -1,0 +1,6 @@
+- [[jop2024.lol]]
+- remise à niveau en mathématiques
+-
+- veille
+	- intelligence artificielle
+	- discriminations algorithmiques
