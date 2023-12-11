@@ -2,3 +2,5 @@
 - https://discussion.fedoraproject.org/t/how-can-i-install-amazon-kindle-desktop/79973/3
 - https://www.reddit.com/r/winehq/comments/u139sr/kindle_desktop_on_arch_linux/
 - https://www.reddit.com/r/linux4noobs/comments/17vwy5z/installing_kindle_reader_on_winebottles/
+- https://github.com/noDRM/DeDRM_tools
+-
