@@ -1,0 +1,10 @@
+- https://github.com/seblucas/cops
+- https://github.com/janeczku/calibre-web
+- https://calibre-ebook.com/
+-
+- moon+ reader pro
+- bookfusion
+-
+-
+-
+- sources : https://www.reddit.com/r/selfhosted/comments/ildx6f/calibre_alternatives_or_ways_to_make_calibre_work/
