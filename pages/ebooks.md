@@ -5,6 +5,10 @@
 - moon+ reader pro
 - bookfusion
 -
+- linux
+	- https://github.com/johnfactotum/foliate
+-
+- https://standardebooks.org/
 -
 -
 - sources : https://www.reddit.com/r/selfhosted/comments/ildx6f/calibre_alternatives_or_ways_to_make_calibre_work/

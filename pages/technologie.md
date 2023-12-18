@@ -1,3 +1,9 @@
+- est-ce que les technologies nous rendent misérables ?
+	- quelles technologies ne le font pas ?
+	- pourquoi les technologies nous rendent misérables ?
+	- doit-on vraiment subir cela ?
+	- comment les technologies nous rendent misérables ?
+-
 - la culture technologique est-elle de droite ?
 	- [[californian ideology]]
 	- [[From Counterculture to Cyberculture]]
