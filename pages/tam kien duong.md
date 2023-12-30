@@ -1,4 +1,6 @@
 - je travaille actuellement comme [data analyst]([[analyse de données]]) chez [[mediapart]]
+- je travaille actuellement comme [data analyst]([[analyse de données]]) chez [[mediapart]].
+- de façon générale, je me définis comme un *knowledge worker*.
 -
 - ## études
 - j'ai commencé par des études en mathématiques appliquées et en psychologie

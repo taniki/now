@@ -1,8 +1,9 @@
-- [[jop2024.lol]]
-- remise à niveau en mathématiques
+- projets
+	- [[jop2024.lol]]
+	- [[scraping prix des biens de consommation]]
+	- remise à niveau en mathématiques
+	- DONE enlever les drm des [[ebooks]] de la bibilothèque [[kindle]]
 -
-- enlever les drm des ebooks [[kindle]]
--
-- veille
+- sujets de veille
 	- intelligence artificielle
 	- discriminations algorithmiques

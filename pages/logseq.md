@@ -34,3 +34,6 @@ type: outils
 	- [Tags](https://github.com/gidongkwon/logseq-plugin-tags)
 	- [Heatmap](https://github.com/pengx17/logseq-plugin-heatmap)
 	- [Random note](https://github.com/tankcool/logseq-random-note)
+-
+- ## problèmes
+	- tâche récurrente

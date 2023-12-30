@@ -1,12 +1,15 @@
-- https://github.com/seblucas/cops
-- https://github.com/janeczku/calibre-web
-- https://calibre-ebook.com/
+## lecteurs
+	- android
+		- moon+ reader pro
+		- bookfusion
+	- linux
+		- https://github.com/johnfactotum/foliate
 -
-- moon+ reader pro
-- bookfusion
--
-- linux
-	- https://github.com/johnfactotum/foliate
+- ## gestionnaires de bibliothèque
+	- calibre
+		- https://calibre-ebook.com/
+		- https://github.com/janeczku/calibre-web
+		- https://github.com/seblucas/cops
 -
 - https://standardebooks.org/
 -
