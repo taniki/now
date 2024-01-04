@@ -1,0 +1,28 @@
+## aggrégateurs centraux
+	- feedbin
+	  id:: 6592a7c4-123e-4a3b-853e-e8c4308ca8fe
+		- interface web très utilisable
+		- $5/m
+		- affichage des changements sous forme de diff
+		- partage vers les services de read-it-later avec une url
+			- [[readwise]]
+				- `https://readwise.io/save?title=${title}&url=${url}`
+-
+- ## clients
+	- News Flash #linux
+		- compatible avec ((6592a7c4-123e-4a3b-853e-e8c4308ca8fe))
+	- NetNewsWire #MacOS #ios
+		- compatible avec ((6592a7c4-123e-4a3b-853e-e8c4308ca8fe))
+-
+- ## formats et protocoles
+	- OPML
+	- HTML discovery
+	- RSS
+	- atom
+	-
+-
+- ## catégorisations
+	-
+-
+- ## ressources
+	-

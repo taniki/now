@@ -1,0 +1,20 @@
+## lecteurs
+	- android
+		- moon+ reader pro
+		- bookfusion
+	- linux
+		- https://github.com/johnfactotum/foliate
+-
+- ## gestionnaires de bibliothèque
+	- calibre
+		- https://calibre-ebook.com/
+		- https://github.com/janeczku/calibre-web
+		- https://github.com/seblucas/cops
+-
+- https://standardebooks.org/
+-
+- bookfusion
+	- https://support.bookfusion.com/hc/en-us/articles/360018852052-Installing-Using-the-BookFusion-Plugin-for-Calibre
+	- https://support.bookfusion.com/hc/en-us/articles/4912633319949-Configuring-Custom-Columns-to-Sync-Bookshelves-and-Series-Info
+-
+- sources : https://www.reddit.com/r/selfhosted/comments/ildx6f/calibre_alternatives_or_ways_to_make_calibre_work/

@@ -2,6 +2,7 @@
 	- [[jop2024.lol]]
 	- [[scraping prix des biens de consommation]]
 	- remise à niveau en mathématiques
+		- {{embed ((65980916-326b-483c-87f8-19128ec9fee8))}}
 	- DONE enlever les drm des [[ebooks]] de la bibilothèque [[kindle]]
 -
 - sujets de veille

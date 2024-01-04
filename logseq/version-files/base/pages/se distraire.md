@@ -1,0 +1,15 @@
+## hobbies
+	- par ordre chronologique
+		- [[séries]]
+		- [[Lego]]
+		- [[claviers]]
+		- [[League of Legends]] #[[jeu vidéo]]
+		- [[Gunpla]]
+		- [[Magic the Gathering]] #[[jeu vidéo]]
+		- [[photographie]]
+		- [[Street Fighter 5]] #[[jeu vidéo]]
+		- [[onewheel]]
+		- [[Miyomini]] #[[jeu vidéo]]
+		- [[photographie]]
+		- [[skateboard]]
+		- [[basketball]]

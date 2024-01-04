@@ -1,0 +1,4 @@
+- participé à la campagne [[kickstarter]]
+- https://72stations.com
+-
+- roadmap : https://sampleverse.notion.site/Infinity-of-Ships-Digital-Pack-c01dd86ff19e4a01b41d0ac32d7075d5
