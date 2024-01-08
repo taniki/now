@@ -37,3 +37,4 @@ alias:: clavier, keyboard
 	- entrainement
 		- https://monkeytype.com/
 		- https://www.keybr.com/
+		  id:: 65999572-802c-4229-9bae-c377a46c6c1f

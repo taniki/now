@@ -12,5 +12,7 @@
 	- discriminations algorithmiques
 	- [[jeux olympiques et paralympiques d'été de 2024]]
 - ## [lectures](lire)
-	- [[The Lathe of Heaven]]
 	- [[Blood in the Machine]]
+	- [[The Language of the Night]]
+- ## vers quoi j'aimerai aller
+	-

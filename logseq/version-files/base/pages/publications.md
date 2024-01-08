@@ -8,6 +8,8 @@ alias:: publier, publication
 		- #quarto #netlify
 	- write.apreslanu.it/tk
 		- #[[Write Freely]]
+	- write.apreslanu.it/weeknotes
+		- #[[Write Freely]] #weeknote
 	- social.apreslanu.it/tk
 		- #micro-blogging #mastodon
 	- [bifurcations](https://blogs.mediapart.fr/edition/la-bifurquation-qui-vient)
