@@ -1,6 +1,6 @@
 - [inventaire notion (lien privé)](https://www.notion.so/tkd/5c61c9da114b4574aa8713cf39589b95?v=75d5268be9474612a853f8b21dc3245e)
 - ## ordinateurs
-	- tags:: inventaire
+	- tags:: inventaire, thing
 	- `kastalien`
 		- [[GPU]] : RTX 3090 [[nvidia]]
 	- lenovo t430s
@@ -9,14 +9,12 @@
 	- raspberry pi 4
 	- khadas VIM4
 - ## tablettes
-	- tags:: inventaire
+	- tags:: inventaire, thing
 	- ((641c10b4-7776-44dc-9edd-1195d33e270c))
-	- [[boox]] palma
-		- android 12
-	- [[boox]] air note 3c
-		- android 12
+	- [[boox]] [[palma]]
+	- [[boox]] [[air note 3c]]
 - ## machins [[apple]]
-	- tags:: inventaire
+	- tags:: inventaire, thing
 	- ipod 4
 	  id:: 64921274-653c-45bc-9ab5-2d9c08e4f075
 	- iphone 13 mini
@@ -28,7 +26,8 @@
 	- airpods pro
 	  id:: 641c10b8-f82a-4010-af29-0f5c36fa8ab2
 - ## consoles
-	- tags:: inventaire
+	- tags:: inventaire, thing
 	- Playstation 4
-	- [[Miyomini]]
+	- [[Miyoo Mini]]
 	- [[Play Date]]
+	- [[Nintendo Switch]]

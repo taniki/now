@@ -2,7 +2,7 @@ alias:: clavier, keyboard
 
 - Utilisant principalement un layout ((64172b3e-74d2-407a-8d73-554002470259)), mes options en terme de keycaps sont relativement limitées. J'ai tout de même un peu de choix parmi la famille `XDA`, `SDA`, etc. Je me dirige également vers des keycaps vierges.
 - ## inventaire
-	- tags:: inventaire
+	- tags:: inventaire, thing
 	- complete keyboards
 		-
 	- boards
@@ -33,3 +33,8 @@ alias:: clavier, keyboard
 	  id:: 64172b3e-74d2-407a-8d73-554002470259
 		- https://colemakmods.github.io/mod-dh/
 	- qwerty
+- ## ressources
+	- entrainement
+		- https://monkeytype.com/
+		- https://www.keybr.com/
+		  id:: 65999572-802c-4229-9bae-c377a46c6c1f

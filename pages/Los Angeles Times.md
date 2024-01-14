@@ -1,0 +1,2 @@
+alias:: lat
+type:: media

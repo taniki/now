@@ -2,18 +2,18 @@
 -
 - ## chemin de lecture en cours
 	- économie, technologie, et travail
-		- Blood in the Machine
+		- [[Blood in the Machine]]
 		- Power and Progress
 		- Seeing Like a State
 		- Le manifeste travail
 		- What Is Anti-racism? And Why It Means Anti-capitalism
 		- White Skin, Black Fuel
--
-- goodreads
-	- [profile](https://www.goodreads.com/user/show/8344753-tam-kien-duong)
-	- [profil](https://www.goodreads.com/user/show/8344753-tam-kien-duong)
-	- [livres lus](https://www.goodreads.com/review/list/8344753-tam-kien-duong?shelf=read)
-	- [livres que j'aimerai bien lire](https://www.goodreads.com/review/list/8344753-tam-kien-duong?order=d&shelf=to-read&sort=date_added)
-- [lire.boitam.eu](https://lire.boitam.eu/)
-	- profile : [@tk@lire.boitam.eu](https://lire.boitam.eu/user/tk)
-	- [livres lus](https://lire.boitam.eu/user/tk/books/read)
+- ## suivi
+	- goodreads
+		- [profile](https://www.goodreads.com/user/show/8344753-tam-kien-duong)
+		- [profil](https://www.goodreads.com/user/show/8344753-tam-kien-duong)
+		- [livres lus](https://www.goodreads.com/review/list/8344753-tam-kien-duong?shelf=read)
+		- [livres que j'aimerai bien lire](https://www.goodreads.com/review/list/8344753-tam-kien-duong?order=d&shelf=to-read&sort=date_added)
+	- [lire.boitam.eu](https://lire.boitam.eu/)
+		- profile : [@tk@lire.boitam.eu](https://lire.boitam.eu/user/tk)
+		- [livres lus](https://lire.boitam.eu/user/tk/books/read)

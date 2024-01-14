@@ -1,0 +1,15 @@
+- extensions
+	- paperwm
+-
+- ## raccourcis clavier
+	- type:: cheatsheet
+	- gestion des fenêtres
+		- `super + [no]` déplacement horizontal = aller d'une fenêtre à l'autre
+		- `super + h` intégrer une fenêtre dans la colonne
+		- `super + ,` sortir la fenêtre du bas de la colonne
+		- `super + [ei]` déplacement vertical = aller d'un workspace à l'autre
+		- `shift +` déplacement de la fenêtre active
+		- scratchpad
+			- `super + ctrl + esc` swichter fenêtre active dans le scratchpad
+			- `super + esc` afficher la dernière fenêtre active du scratchpad
+			- `` afficher le scratchpad

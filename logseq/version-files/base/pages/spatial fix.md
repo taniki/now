@@ -1,0 +1,3 @@
+- https://en.wikipedia.org/wiki/Overaccumulation
+	- https://urbrel.hypotheses.org/glossary/spatial-fix
+-

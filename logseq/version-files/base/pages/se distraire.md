@@ -9,7 +9,7 @@
 		- [[photographie]]
 		- [[Street Fighter 5]] #[[jeu vidéo]]
 		- [[onewheel]]
-		- [[Miyomini]] #[[jeu vidéo]]
+		- [[Miyoo Mini]] #[[jeu vidéo]]
 		- [[photographie]]
 		- [[skateboard]]
 		- [[basketball]]

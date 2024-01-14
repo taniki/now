@@ -242,7 +242,7 @@
  :ref/linked-references-collapsed-threshold 50
 
  ;; Favorites to list on the left sidebar
- :favorites ["croisée des chemins" "publications" "casting" "livres" "tâches"]
+ :favorites ["la vie des choses" "croisée des chemins" "publications" "livres" "casting" "choses" "tâches"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -259,7 +259,7 @@
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}
- :property-pages/excludelist #{:url :read :author :type :alias :pays}
+ :property-pages/excludelist #{:url :alias}
 
  ;; By default, property value separated by commas will not be treated as
  ;; page references. You can add properties to enable it.

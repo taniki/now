@@ -1,10 +1,19 @@
-- projets
+## ce à quoi je travaille
+	- analyse de données chez [[mediapart]]
+	- parentiser avec ma [[petite famille]]
+- ## les projets qui occupent mes pensées et mes soirées
 	- [[jop2024.lol]]
 	- [[scraping prix des biens de consommation]]
 	- remise à niveau en mathématiques
+		- https://brilliant.com
 		- {{embed ((65980916-326b-483c-87f8-19128ec9fee8))}}
 	- DONE enlever les drm des [[ebooks]] de la bibilothèque [[kindle]]
--
-- sujets de veille
-	- intelligence artificielle
-	- discriminations algorithmiques
+- ## sujets de veille
+	- [[intelligence artificielle]]
+	- [[discriminations et algorithmes]]
+	- [[jeux olympiques et paralympiques d'été de 2024]]
+- ## [lectures](lire)
+	- [[Blood in the Machine]]
+	- [[The Language of the Night]]
+- ## vers quoi j'aimerai aller
+	-
