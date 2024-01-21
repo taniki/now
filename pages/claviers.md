@@ -18,6 +18,7 @@ alias:: clavier, keyboard
 		- Plaid usb-c
 		- Paintbrush
 		- [[hhkb]] hybrid type-s
+		  id:: 659c4fc2-cf27-4cfb-ab29-61fc3f604777
 	- keycaps
 	- switches
 	-

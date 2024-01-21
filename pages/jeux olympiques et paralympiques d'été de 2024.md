@@ -6,18 +6,35 @@ alias:: jop2024, jeux olympiques 2024, paris 2024
 	- jeux paralympiques :
 - ## sources
 	- le monde : https://www.lemonde.fr/jeux-olympiques-2024/
-- ## surf
-	- https://www.lemonde.fr/idees/article/2023/12/19/jo-2024-a-tahiti-le-projet-de-tour-des-juges-en-vue-des-epreuves-de-surf-n-a-pas-ete-soumis-a-une-etude-d-impact-environnemental_6206667_3232.html
-	- https://www.lemonde.fr/sport/article/2023/12/20/paris-2024-pour-le-surf-a-tahiti-c-est-le-cio-et-le-comite-d-organisation-qui-ont-le-dernier-mot_6206907_3242.html
-		- > Même si, officiellement, l’épreuve de surf aura lieu à Teahupoo, l’hypothèse qu’il faille la relocaliser n’est pas totalement écartée, selon un familier du dossier. La date limite pour procéder à un tel changement se situe au début du printemps 2024.
-- ## interruption de la navigation fluviale
-	- cérémonie d'ouverture
-	- épreuves sur la seine
-	- https://www.actu-transport-logistique.fr/npi-magazine/thematiques/infrastructures/jeux-olympiques-de-paris-2024-la-navigation-fluviale-interrompue-dans-paris-873383.php
-		- > Le suspense vient de s’achever : la préfecture de la région Ile-de-France a confirmé une interruption de la navigation sur la Seine dans Paris entre Austerlitz (13ème arrondissement) et Bir-Hakeim (15ème arrondissement) environ 7 jours avant le 26 juillet 2024. C’est justement le périmètre de la parade fluviale lors de la cérémonie d’ouverture des JOP, prévue pour la première fois hors d’un stade.
-	- https://www.lepoint.fr/societe/jo-de-paris-bloquer-la-seine-un-couac-majeur-pour-le-transport-des-cereales-21-12-2023-2547853_23.php
-	- https://www.ouest-france.fr/jeux-olympiques/en-pleine-periode-de-moissons-le-transport-de-cereales-chamboule-par-les-jeux-olympiques-075cc3b2-92b2-11ee-b098-8644c47fd929
-	- https://www.leparisien.fr/jo-paris-2024/jo-2024-maintenir-le-trafic-commercial-sur-la-seine-pendant-les-epreuves-lautre-defi-qui-attend-paris-22-05-2023-LW7ZHNMZJVA7JPG36NYQFEO7C4.php
-- ## jardins d'aubervilliers
-- ## travaux et gestion budgétaire
-- ## CIO
+-
+- controverses
+  id:: 65abfa21-9f1f-4de4-8120-f2b2480bbc1b
+	- ## logement des bénévoles
+		- https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/paris-2024-les-volontaires-doivent-se-debrouiller-pour-trouver-un-logement-declare-le-delegue-interministeriel-aux-jeux_6315693.html
+	- ## surf
+		- https://www.lemonde.fr/idees/article/2023/12/19/jo-2024-a-tahiti-le-projet-de-tour-des-juges-en-vue-des-epreuves-de-surf-n-a-pas-ete-soumis-a-une-etude-d-impact-environnemental_6206667_3232.html
+		- https://www.lemonde.fr/sport/article/2023/12/20/paris-2024-pour-le-surf-a-tahiti-c-est-le-cio-et-le-comite-d-organisation-qui-ont-le-dernier-mot_6206907_3242.html
+			- > Même si, officiellement, l’épreuve de surf aura lieu à Teahupoo, l’hypothèse qu’il faille la relocaliser n’est pas totalement écartée, selon un familier du dossier. La date limite pour procéder à un tel changement se situe au début du printemps 2024.
+	- ## interruption de la navigation fluviale
+		- cérémonie d'ouverture
+		- épreuves sur la seine
+		- https://www.actu-transport-logistique.fr/npi-magazine/thematiques/infrastructures/jeux-olympiques-de-paris-2024-la-navigation-fluviale-interrompue-dans-paris-873383.php
+			- > Le suspense vient de s’achever : la préfecture de la région Ile-de-France a confirmé une interruption de la navigation sur la Seine dans Paris entre Austerlitz (13ème arrondissement) et Bir-Hakeim (15ème arrondissement) environ 7 jours avant le 26 juillet 2024. C’est justement le périmètre de la parade fluviale lors de la cérémonie d’ouverture des JOP, prévue pour la première fois hors d’un stade.
+		- https://www.lepoint.fr/societe/jo-de-paris-bloquer-la-seine-un-couac-majeur-pour-le-transport-des-cereales-21-12-2023-2547853_23.php
+		- https://www.ouest-france.fr/jeux-olympiques/en-pleine-periode-de-moissons-le-transport-de-cereales-chamboule-par-les-jeux-olympiques-075cc3b2-92b2-11ee-b098-8644c47fd929
+		- https://www.leparisien.fr/jo-paris-2024/jo-2024-maintenir-le-trafic-commercial-sur-la-seine-pendant-les-epreuves-lautre-defi-qui-attend-paris-22-05-2023-LW7ZHNMZJVA7JPG36NYQFEO7C4.php
+	- ## jardins d'aubervilliers
+		- https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/jo-2024-la-piscine-d-aubervilliers-verra-bien-le-jour-mais-les-jardins-ouvriers-seront-preserves-2577948.html
+			- 2022-07-07
+	- ## travaux et gestion budgétaire
+		- cour des comptes
+			- https://www.ccomptes.fr/fr/publications/lorganisation-des-jeux-olympiques-et-paralympiques-de-paris-2024-1
+			- 2023-07-20
+	- ## sans-abris
+	- ## résidences étudiantes
+	- ## CIO
+-
+- autres jeux olympiques
+	- tokyo 2020-2021
+		- {{video https://www.youtube.com/watch?v=MFt_73746Ts}}
+			- 2022-01-09

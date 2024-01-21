@@ -6,7 +6,7 @@ icon:: 🧭
 -
 - {{embed [[en ce moment]]}}
 -
-- OS
+- Système d'opération
 	- travailler
 	- [[étudier]]
 	- [[lire]]

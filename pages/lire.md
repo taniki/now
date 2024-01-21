@@ -1,6 +1,7 @@
 - [[livres]]
 -
 - ## chemin de lecture en cours
+  id:: 659dd51b-5299-4098-aa01-11cc307d7d75
 	- économie, technologie, et travail
 		- [[Blood in the Machine]]
 		- Power and Progress
@@ -8,6 +9,7 @@
 		- Le manifeste travail
 		- What Is Anti-racism? And Why It Means Anti-capitalism
 		- White Skin, Black Fuel
+		- [[Ways of Being]]
 - ## suivi
 	- goodreads
 		- [profile](https://www.goodreads.com/user/show/8344753-tam-kien-duong)

@@ -1,5 +1,4 @@
 alias:: choses, belongings
-
 - > What You Own, Owns You
 - inspiration
 	- https://マリウス.com/belongings/

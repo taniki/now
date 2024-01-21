@@ -15,5 +15,8 @@
 - ## [lectures](lire)
 	- [[Blood in the Machine]]
 	- [[The Language of the Night]]
+- ## les [[jeux vidéos]] qui m'occupent
+	- [[Super Mario Bros Wonder]]
+	- Water Flow ([[Play Date]])
 - ## vers quoi j'aimerai aller
 	-

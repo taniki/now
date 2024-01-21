@@ -1,4 +1,6 @@
-## ce à quoi je travaille
+alias:: now
+
+- ## ce à quoi je travaille
 	- analyse de données chez [[mediapart]]
 	- parentiser avec ma [[petite famille]]
 - ## les projets qui occupent mes pensées et mes soirées
@@ -14,6 +16,10 @@
 	- [[jeux olympiques et paralympiques d'été de 2024]]
 - ## [lectures](lire)
 	- [[Blood in the Machine]]
-	- [[The Language of the Night]]
+	- [[The Unreal and the Real]]
+	- [[Le cycle du midi]]
+- ## les [[jeux vidéos]] qui m'occupent
+	- [[Super Mario Bros Wonder]]
+	- Water Flow ([[Play Date]])
 - ## vers quoi j'aimerai aller
 	-

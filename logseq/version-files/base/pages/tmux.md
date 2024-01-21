@@ -1,5 +1,4 @@
 type:: software
-
 - ## ma config
 	- extensions
 		- [tpm](https://github.com/tmux-plugins/tpm)
