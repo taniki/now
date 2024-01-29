@@ -4,6 +4,7 @@
   id:: 659dd51b-5299-4098-aa01-11cc307d7d75
 	- économie, technologie, et travail
 		- [[Blood in the Machine]]
+		- [[Power Games]]
 		- Power and Progress
 		- Seeing Like a State
 		- Le manifeste travail

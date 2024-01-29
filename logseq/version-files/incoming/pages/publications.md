@@ -1,10 +1,25 @@
-## espaces de publication
+alias:: publier, publication
+
+- ## données
+	- FINESS
+	- [[données assemblée nationale]]
+- ## espaces de publication
 	- https://11d.im
+		- #11ty #netlify
+	- https://data.11d.im
+		- #quarto #netlify
 	- https://write.apreslanu.it/tk
-	- https://blogs.mediapart.fr/edition/la-bifurquation-qui-vient
+		- #[[Write Freely]]
+	- https://write.apreslanu.it/weeknotes
+		- #[[Write Freely]] #weeknote
+	- https://social.apreslanu.it/tk
+		- #micro-blogging #mastodon
+	- [bifurcations](https://blogs.mediapart.fr/edition/la-bifurquation-qui-vient)
+		- #mediapart
 - ## apparitions
 	- https://www.liberation.fr/politique/elections/regionales-que-disent-les-sondages-20210618_6KTLRIMIZZEKZETCKVRZ7UASVI/
 	- https://www.mediapart.fr/journal/france/210622/le-nouvel-ordre-electoral-trois-poles-et-des-incertitudes
 	- https://www.mediapart.fr/journal/politique/220623/un-de-votes-attrape-tout-pour-le-rn
 	- https://www.mediapart.fr/journal/politique/130523/nupes-l-assemblee-les-chiffres-prouvent-que-le-groupe-vit-plutot-bien
--
+	- https://www.mediapart.fr/journal/international/190124/des-dons-defiscalises-de-l-argent-public-francais-finance-l-armee-israelienne
+		- mentionné dans la boîte noire

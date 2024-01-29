@@ -1,0 +1,6 @@
+- acessible via [[Pass culture (BnF)]]
+- https://www.europresse.com/
+- https://github.com/search?q=europresse&type=repositories
+-
+- ## idées
+	- europresse2datasette

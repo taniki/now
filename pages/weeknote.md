@@ -39,5 +39,6 @@
 	- 🕹️ joué à
 	- 📖 commencé
 	- 📺 regardé
+	- 🎥 cinéma
 	- 🎧 écouté
 -
