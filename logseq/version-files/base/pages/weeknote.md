@@ -40,5 +40,6 @@
 	- 📖 commencé
 	- 📺 regardé
 	- 🎥 cinéma
-	- 🎧 écouté
+	- 🎧 écouté musique
+	- 🎙️ écouté podcast
 -

@@ -15,26 +15,38 @@
 					- ((64921274-653c-45bc-9ab5-2d9c08e4f075))
 				- DONE téléphoner
 					- Punkt MP02
-				- apps de messagerie nécessitant une vérification du numéro de téléphone
+				- DONE apps de messagerie nécessitant une vérification du numéro de téléphone
 					- signal
 					- whatsapp
+					- [[Cat S22 Flip]]
 				- DONE prendre des photos
 					- ((6425512c-9e6d-47ae-b24c-a42b6992d6ed))
 				- stocker des photos
 				- DONE scanner des QR codes
-				- OTP
+				- DONE OTP
 		- [[notion]]
 		- google
 			- DONE search
 				- remplacé par you.com
-		- youtube
+				- duckduckgo
+			- DONE gmail
+				- partiellement, il me reste une ancienne boîte qui me sert à stocker de la pub
 		- goodreads
 			- lire.boitam.eu
 			- [[livres]]
 	- 2024
+		- apple
+			- ((641c10b4-7776-44dc-9edd-1195d33e270c))
+				- réseaux sociaux
+					- [[mastodon]]
+					- [[reddit]]
+		- google
+			- google maps
+			- youtube
 		- ms/github
 		  id:: 6405fa83-dcaa-4b92-9f83-8974bb07b51e
 			- framagit
 			- gitlab
 	- 2025
 		- amazon
+		- dropbox

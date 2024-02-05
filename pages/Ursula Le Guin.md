@@ -9,6 +9,7 @@ alias: Ursula K Le Guin, UKL
 - ## bibliographie
 	- fiction
 		- ✅️ Hainish Cycle
+		  id:: 65a858c8-d4ce-4b3f-9970-92b2f64aabe3
 			- ✅️ Rocannon's World
 			- ✅️ Planet of Exile
 			- ✅️ City of Illusions
@@ -28,8 +29,9 @@ alias: Ursula K Le Guin, UKL
 		- Other novels
 			- ✅️ [[The Lathe of Heaven]]
 		- nouvelles
-			- [[The Unreal and the Real]]
+			- ✅️ [[The Unreal and the Real]]
 				- ✅️ [[The Ones Who Walk Away from Omelas]]
+			- Changing Planes
 	- essais
 		- ✅️ [[The Language of the Night]]
 		- ✅️ [[Steering the Craft]]
