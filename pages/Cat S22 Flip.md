@@ -1,0 +1,7 @@
+- https://github.com/sspanak/tt9
+- https://www.reddit.com/r/dumbphones/search/?q=s22&restrict_sr=1
+- adb
+-
+- https://beforelabs.com/
+- https://www.reddit.com/r/dumbphones/comments/18bksbx/simple_text_only_launcher_for_cat_s22_flip/
+-
