@@ -1,5 +1,5 @@
 ---
-type: outils
+type: outils, logiciel
 ---
 
 - #pkm

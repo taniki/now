@@ -1,3 +1,4 @@
+type:: site
 - site où je met(tais) mes photos
 - LATER rebooter le site en quelque chose de plus simple
 -

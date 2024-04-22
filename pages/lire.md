@@ -3,14 +3,38 @@
 - ## chemin de lecture en cours
   id:: 659dd51b-5299-4098-aa01-11cc307d7d75
 	- économie, technologie, et travail
-		- [[Blood in the Machine]]
-		- [[Power Games]]
-		- Power and Progress
-		- Seeing Like a State
+		- DONE [[Blood in the Machine]]
+		- DONE [[Power and Progress]]
+		- DONE [[Seeing Like a State]]
+		- L'espace public
 		- Le manifeste travail
 		- What Is Anti-racism? And Why It Means Anti-capitalism
 		- White Skin, Black Fuel
 		- [[Ways of Being]]
+		- Brotopia
+	- détours
+		- DONE [[Paris 2024. Une ville à l'épreuve des jeux]]
+		- DONE [[Power Games]]
+	- SFF
+		- {{embed ((65ba2274-54a3-4171-893a-29ed01ea9017))}}
+		- The Sparrow
+	- philosophie du langage
+		- DONE [[Dogwhistles & Figleaves]]
+		- Lying, Misleading & What is Said
+	- anarchisme
+		- Agissez par vous-mêmes
+		- Paroles d'un révolté
+		- La conquête du pain
+		- L'entraide
+		- DONE Gastronomie & anarchisme
+	- Relire [[Hannah Arendt]]
+		- Crisis of the Republic
+	- [[écrire]] et apprendre
+		- Writing to Learn
+		- Dully Noted
+	- éthique
+		- Being Wrong
+		- [[Permanent Records]] de Edward Snowden
 - ## suivi
 	- goodreads
 		- [profile](https://www.goodreads.com/user/show/8344753-tam-kien-duong)
@@ -20,3 +44,7 @@
 	- [lire.boitam.eu](https://lire.boitam.eu/)
 		- profile : [@tk@lire.boitam.eu](https://lire.boitam.eu/user/tk)
 		- [livres lus](https://lire.boitam.eu/user/tk/books/read)
+-
+- [[écrire]] à propos de mes lectures
+	- comment cela m'aide à trouver mon chemin dans mes réflexions ?
+	- comment cela me fait penser/parler ?

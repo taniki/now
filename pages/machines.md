@@ -4,7 +4,18 @@
 	- `kastalien`
 		- [[GPU]] : RTX 3090 [[nvidia]]
 	- lenovo t430s
+	  id:: 65a4642e-a22c-4aff-bce8-c570ad6b9d4a
 		- https://www.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops.html
+		- [layout colemak-dh + intl](https://github.com/taniki/colemak-dh-intl)
+		  id:: 661e2b37-de2b-40ce-9ba4-1ae02bb25317
+			- fait avec kalamine
+		- ajouts
+			- gnome tweaks
+			  id:: 661e2b44-3f00-4090-a7da-3c715c7b5f4e
+				- swap caps lock and control
+				- swap alt and win
+				- as compose
+				- as super
 	- `jaures01`
 	- raspberry pi 4
 	- khadas VIM4

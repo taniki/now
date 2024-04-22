@@ -1,7 +1,6 @@
 ---
 alias: prédiction
 ---
-
 -
 - Nonrival
 	- type:: [[substack]]

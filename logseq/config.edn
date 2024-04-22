@@ -242,7 +242,7 @@
  :ref/linked-references-collapsed-threshold 50
 
  ;; Favorites to list on the left sidebar
- :favorites ["croisée des chemins" "publications" "livres" "la vie des choses" "casting" "tâches"]
+ :favorites ["en ce moment" "croisée des chemins" "publications" "livres" "la vie des choses" "casting" "tâches"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -344,7 +344,10 @@
  :feature/enable-journals? true
  :default-home {:page "croisée des chemins"}
  :feature/enable-flashcards? true
- :graph/settings {:orphan-pages? true, :builtin-pages? false, :excluded-pages? false}
+ :graph/settings {:orphan-pages? false
+ :builtin-pages? false
+ :excluded-pages? false
+ :journal? true}
  :zotero/settings-v2 {"default" {:zotero-data-directory "~/Zotero", :page-insert-prefix "@", :include-attachments? false, :include-notes? false}}
  :publishing/all-pages-public? true
 

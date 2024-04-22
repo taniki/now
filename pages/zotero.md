@@ -1,7 +1,14 @@
-- plugins
+## plugins
 	- better bibtex
 		- génère des clés uniques sous la forme`LastnameYear`
+		- génère des clés uniques sous la forme `LastnameYear`
 		- exporte automatiquement au format bibtex
 	- sci-hub
 		- 🏴‍☠️
+	- zotfiles
+-
+- ## installation
+	- linux
+		-
+-
 - #outils

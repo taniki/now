@@ -1,6 +1,5 @@
 type:: book
 author:: Dominique Pinsolle
-
 - ## trame
 	- Histoire de la presse écrite
 	- Histoire de l'audiovisuelle

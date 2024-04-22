@@ -1,3 +1,37 @@
 - présence
 	- en : [`taniki`](https://en.wikipedia.org/wiki/User:Taniki)
-	- fr : [`nicky`](https://fr.wikipedia.org/wiki/Utilisateur:Nicky)
+	- fr : [`taniki`](https://fr.wikipedia.org/wiki/Utilisateur:Taniki) ⬅️ [`nicky`](https://fr.wikipedia.org/wiki/Utilisateur:Nicky)
+	- wikidata : https://www.wikidata.org/wiki/User:Taniki
+-
+- mon blocage sur wikipedia fr
+	- [Wikipédia:Requête aux administrateurs/2024/Semaine 10 — Wikipédia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Requ%C3%AAte_aux_administrateurs/2024/Semaine_10#Harc%C3%A8lement_de_contributeurs_depuis_Mastodon)
+	- [Wikipédia:Bulletin des administrateurs/2024/Semaine 10 — Wikipédia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Bulletin_des_administrateurs/2024/Semaine_10#Harc%C3%A8lement_depuis_Mastodon)
+	- [Wikipédia:Bulletin des administrateurs/2024/Semaine 11 — Wikipédia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Bulletin_des_administrateurs/2024/Semaine_11#Mise_en_oeuvre_blocages_d%C3%A9cid%C3%A9s)
+-
+-
+- draft
+  collapsed:: true
+	- wikipedia et ses petits mondes
+		- qu'est-ce que wikipedia
+		- pourquoi c'est important
+			- commun numérique
+			- esprit d'un espace public guidé par la sagesse des foules
+			- intelligence collective
+				- émergence
+		- la controverse
+			- dead name
+			- sondage
+				- pratique des sondages dans la communauté francophone
+			- anecdotique ou reflet de la société ?
+		- autre exemple de controverse
+			- écriture inclusive
+		- pistes de réflexion
+			- exceptionnalisme ?
+			- analyse des réseaux sociaux
+				- combien de cliques
+			- pluralisme
+				- gouvernance
+			- conflit interne de valeurs
+			- identité et politique
+				- resisting AI
+				- communautaire, libertaire et libertarien

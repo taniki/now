@@ -37,7 +37,9 @@
 	- archiver l'activité de logseq
 - ## iconographie
 	- 🕹️ joué à
-	- 📖 commencé
+	- livres
+		- 📖 commencé
+		- 📕 fini
 	- 📺 regardé
 	- 🎥 cinéma
 	- 🎧 écouté musique

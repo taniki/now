@@ -1,6 +1,5 @@
 type:: person
 alias:: Alexandre Douguine
-
 - https://en.wikipedia.org/wiki/Aleksandr_Dugin
 - https://en.wikipedia.org/wiki/Foundations_of_Geopolitics
 -

@@ -43,7 +43,7 @@ read:: 2023-03-23
 -
 - ## follow up
 	- LATER lire le dernier chapitre
-	- [[Shaping Technology/Building Society]]
+	- [[Shaping Technology-Building Society]]
 	- [[New Blackwell Companion to Social Theory]]
 	- Tukey 1977 [[Exploratory Data Analysis]]
 	- Latour

@@ -1,4 +1,3 @@
 type:: organisation
 alias:: EHESS
-
 -

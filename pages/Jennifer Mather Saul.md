@@ -1,0 +1,11 @@
+type:: person
+- links
+	- [Jennifer Saul - Wikipedia](https://en.wikipedia.org/wiki/Jennifer_Saul)
+	- [Google Scholar](https://scholar.google.com/citations?user=sJ5ghBcAAAAJ&hl=en&oi=ao)
+-
+- ## articles
+	- https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sJ5ghBcAAAAJ&sortby=pubdate&citation_for_view=sJ5ghBcAAAAJ:43bX7VzcjpAC
+	- https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sJ5ghBcAAAAJ&sortby=pubdate&citation_for_view=sJ5ghBcAAAAJ:Ehil0879vHcC
+	- https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sJ5ghBcAAAAJ&sortby=pubdate&citation_for_view=sJ5ghBcAAAAJ:k8Z6L05lTy4C
+	- https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sJ5ghBcAAAAJ&sortby=pubdate&citation_for_view=sJ5ghBcAAAAJ:0KyAp5RtaNEC
+	- https://books.google.fr/books?hl=en&lr=&id=sthjDwAAQBAJ&oi=fnd&pg=PA360&dq=jennifer+saul&ots=RLDtOr8YxM&sig=4OII5E01MCyLXDnU3j2GUpIDUdE&redir_esc=y#v=onepage&q=jennifer%20saul&f=false

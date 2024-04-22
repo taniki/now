@@ -1,3 +1,2 @@
 type:: person
-
 - [[Medialab ScPo]]

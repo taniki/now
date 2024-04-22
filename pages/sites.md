@@ -2,6 +2,7 @@
 	- 🌲🌲🌲
 		- [[11d.im]]
 		- [[data.11d.im]]
+		- [[la cuisine à données]]
 		- [[veille.11d.im]]
 		- [[six.photos]]
 	- communauté

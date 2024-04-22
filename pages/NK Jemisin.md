@@ -1,0 +1,3 @@
+- https://thefantasyreviews.com/2023/02/12/n-k-jemisin-reading-guide/
+- https://en.wikipedia.org/wiki/N._K._Jemisin
+-

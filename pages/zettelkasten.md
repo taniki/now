@@ -8,3 +8,15 @@
 - interroger le système une fois qu'il a atteint une certaine masse critique
 - sérendipité
 - réduire les frictions et temporiser la production de connaissances en différentes séquences
+-
+- ## logiciel
+	- gestion
+		- [[zk]]
+	- écriture de notes
+		- [[obsidian]]
+		- [[zettlr]]
+		- zettelkasten
+		- [[neovim]]
+	- publication
+	- visualisation
+		- [[cosma]]

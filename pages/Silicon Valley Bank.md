@@ -1,6 +1,5 @@
 type:: organisation
 alias:: SVB
-
 -
 - Banque principalement [américaine]([[USA]])
 -

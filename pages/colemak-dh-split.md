@@ -1,6 +1,5 @@
 type:: projet
 tags:: claviers
-
 - ## claviers
 	- ((641d806f-d95b-4151-8da3-0c0175f51e9d))
 - ## principes

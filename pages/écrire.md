@@ -1,5 +1,4 @@
 alias:: écriture
-
 - ## outils
   id:: 65835c75-4595-407d-b02a-8807b5d542cf
 	- préparation

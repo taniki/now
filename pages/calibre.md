@@ -1,0 +1,11 @@
+- https://calibre-ebook.com/
+-
+- ## formats
+	- epub
+	- amazon kindle
+- ## plugins
+	- goodread
+		- https://github.com/kiwidude68/calibre_plugins/blob/main/goodreads/README.md
+	- goodread sync
+		- https://github.com/kiwidude68/calibre_plugins/tree/main/goodreads_sync
+		- https://www.mobileread.com/forums/showthread.php?t=123281

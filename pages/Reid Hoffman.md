@@ -1,5 +1,4 @@
 type:: person
-
 -
 - investisseur de [[OpenAi]]
 - co-fondateur de [[LinkedIn]]

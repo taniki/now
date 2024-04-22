@@ -1,5 +1,4 @@
 ---
 alias: subscription economy
 ---
-
 -

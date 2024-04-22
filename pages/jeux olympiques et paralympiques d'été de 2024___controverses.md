@@ -1,5 +1,4 @@
 alias:: jop2024/controverses
-
 - ## logement des bénévoles
   collapsed:: true
 	- https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/paris-2024-les-volontaires-doivent-se-debrouiller-pour-trouver-un-logement-declare-le-delegue-interministeriel-aux-jeux_6315693.html
@@ -18,6 +17,7 @@ alias:: jop2024/controverses
 	- https://www.leparisien.fr/jo-paris-2024/jo-2024-maintenir-le-trafic-commercial-sur-la-seine-pendant-les-epreuves-lautre-defi-qui-attend-paris-22-05-2023-LW7ZHNMZJVA7JPG36NYQFEO7C4.php
 	- https://france3-regions.francetvinfo.fr/paris-ile-de-france/jo-de-paris-2024-les-cerealiers-s-alarment-des-restrictions-de-navigation-sur-la-seine-l-ete-prochain-en-pleine-periode-des-moissons-2905565.html
 - ## jardins d'aubervilliers
+  collapsed:: true
 	- https://france3-regions.francetvinfo.fr/paris-ile-de-france/seine-saint-denis/jo-2024-la-piscine-d-aubervilliers-verra-bien-le-jour-mais-les-jardins-ouvriers-seront-preserves-2577948.html
 		- 2022-07-07
 - ## travaux et gestion budgétaire
@@ -36,9 +36,21 @@ alias:: jop2024/controverses
 	- https://www.france24.com/fr/france/20231029-jo-de-paris-2024-100-euros-et-deux-places-contre-un-logement-crous-les-%C3%A9tudiants-amers
 - ## CIO
 - ## COJO
-	- https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/paris-2024-des-perquisitions-menees-dans-les-locaux-du-comite-d-organisation-et-des-agences-chargees-des-ceremonies-d-ouverture_6131709.html
+  id:: 65b8dad8-ad19-4818-a52d-3927442a7f9d
+	- annuaire entreprise
+		- https://annuaire-entreprises.data.gouv.fr/etablissement/44129920300022
+	- [Paris 2024 : des perquisitions men&eacute;es dans les locaux du Comit&eacute; d&rsquo;organisation et des agences charg&eacute;es des c&eacute;r&eacute;monies d&#039;ouverture](https://www.francetvinfo.fr/les-jeux-olympiques/paris-2024/paris-2024-des-perquisitions-menees-dans-les-locaux-du-comite-d-organisation-et-des-agences-chargees-des-ceremonies-d-ouverture_6131709.html)
 		- perquisitions le 18 octobre 2023
 		- deux autres enquêtes préliminaires
+	- bilans comptables
+		- 2020
+			- https://www.journal-officiel.gouv.fr/telechargements/ASSOCIATIONS/DCA/PDF/2020/3112/834983439_31122020.pdf
+		- 2021
+			- https://www.journal-officiel.gouv.fr/telechargements/ASSOCIATIONS/DCA/PDF/2021/3112/834983439_31122021.pdf
+		- 2019
+			- https://www.journal-officiel.gouv.fr/telechargements/ASSOCIATIONS/DCA/PDF/2019/3112/834983439_31122019.pdf
+		- 2018
+			- https://www.journal-officiel.gouv.fr/telechargements/ASSOCIATIONS/DCA/PDF/2018/3112/834983439_31122018.pdf
 - ## flamme olympique
   collapsed:: true
 	- https://www.lequipe.fr/Jo-2024-paris/Tous-sports/Actualites/La-flamme-des-jo-2024-sous-haute-protection-policiere/1443939

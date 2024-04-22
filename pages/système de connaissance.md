@@ -2,7 +2,6 @@
 garden: true
 status: 🌱 seed
 ---
-
 - alimentation
 	- RSS
 		- newsboat

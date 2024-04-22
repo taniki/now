@@ -1,6 +1,5 @@
 exclude-from-graph-view:: true
 icon:: 🧭
-
 - 👋 Salut, je suis [[tam kien duong]].
   bienvenue dans cet instrument ((64077a79-1be1-49ce-8989-9d59d8bd4caa)).
 -
