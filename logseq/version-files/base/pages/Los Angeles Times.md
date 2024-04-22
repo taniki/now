@@ -1,2 +1,0 @@
-alias:: lat
-type:: media

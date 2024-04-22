@@ -1,1 +1,0 @@
-- https://observablehq.com/@taniki/how-much-time-did-i-wasted-on-league-of-legends?collection=%40taniki%2F30-days-of-notebooks
